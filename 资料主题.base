@@ -1,0 +1,169 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("相关资料")
+    - file.basename != "README"
+    - or:
+        - file.inFolder("相关资料/论文与研究报告")
+        - file.inFolder("相关资料/专利")
+        - file.inFolder("相关资料/机构与产品资料")
+        - file.inFolder("相关资料/交流与原始素材")
+properties:
+  file.folder:
+    displayName: 归档目录
+  file.name:
+    displayName: Markdown
+  file.path:
+    displayName: 路径
+  file.mtime:
+    displayName: 最近修改
+  file.links:
+    displayName: 出链
+  note.title:
+    displayName: 标题
+  note.authors:
+    displayName: 作者
+  note.year:
+    displayName: 年份
+  note.doi:
+    displayName: DOI
+  note.institution:
+    displayName: 机构
+  note.record_category:
+    displayName: 资料类别
+  note.input_energy_final_function:
+    displayName: 输入与功能
+  note.pressure_wave_generator:
+    displayName: 压力波发生器
+  note.output_device:
+    displayName: 输出装置
+  note.sound_field:
+    displayName: 局部声场
+  note.engineering_type:
+    displayName: 工程类型
+  note.function_boundary:
+    displayName: 功能边界
+  note.drive_chain:
+    displayName: 驱动链
+  note.phase_control:
+    displayName: 调相方式
+  note.topology:
+    displayName: 拓扑
+  note.evidence_grade:
+    displayName: 证据等级
+  note.source_status:
+    displayName: 来源状态
+  note.source_path:
+    displayName: 原文路径
+  note.same_source_as:
+    displayName: 同源主记录
+views:
+  - type: table
+    name: 按资料类别
+    groupBy:
+      property: record_category
+      direction: ASC
+    order:
+      - record_category
+      - file.name
+      - file.path
+      - file.mtime
+      - file.links
+    columnSize:
+      file.name: 451
+  - type: table
+    name: 按机构
+    filters:
+      and:
+        - note.institution != null
+    groupBy:
+      property: institution
+      direction: ASC
+    order:
+      - institution
+      - title
+      - year
+      - evidence_grade
+      - source_status
+      - file.path
+  - type: table
+    name: 按输入与功能
+    filters:
+      and:
+        - note.input_energy_final_function != null
+    groupBy:
+      property: input_energy_final_function
+      direction: ASC
+    order:
+      - input_energy_final_function
+      - title
+      - pressure_wave_generator
+      - output_device
+      - engineering_type
+      - year
+      - source_status
+  - type: table
+    name: 按工程类型
+    filters:
+      and:
+        - note.engineering_type != null
+    groupBy:
+      property: engineering_type
+      direction: ASC
+    order:
+      - engineering_type
+      - title
+      - pressure_wave_generator
+      - output_device
+      - drive_chain
+      - phase_control
+      - topology
+      - evidence_grade
+  - type: table
+    name: 按证据状态
+    filters:
+      and:
+        - note.source_status != null
+    groupBy:
+      property: source_status
+      direction: ASC
+    order:
+      - source_status
+      - evidence_grade
+      - title
+      - institution
+      - year
+      - doi
+  - type: table
+    name: 按年份
+    filters:
+      and:
+        - note.year != null
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - year
+      - title
+      - authors
+      - institution
+      - record_category
+      - source_status
+  - type: table
+    name: 同源副本
+    filters:
+      and:
+        - note.same_source_as != null
+    order:
+      - file.name
+      - same_source_as
+      - source_path
+  - type: table
+    name: 待补元数据
+    filters:
+      and:
+        - note.title == null
+    order:
+      - file.folder
+      - file.name
+      - file.path
