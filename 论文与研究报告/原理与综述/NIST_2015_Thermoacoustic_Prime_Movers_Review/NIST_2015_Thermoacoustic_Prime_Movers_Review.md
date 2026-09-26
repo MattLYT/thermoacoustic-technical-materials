@@ -2,7 +2,7 @@
 record_category: "论文与研究报告/原理与综述"
 title: "Thermoacoustic prime movers and refrigerators: Thermally powered engines without moving components"
 source_path: "相关资料/论文与研究报告/原理与综述/NIST_2015_Thermoacoustic_Prime_Movers_Review/source/NIST_2015_Thermoacoustic_Prime_Movers_Review.pdf"
-same_source_as: "相关资料/论文与研究报告/原理与综述/NIST_2015_Thermoacoustic_Prime_Movers_Review/NIST_2015_Thermoacoustic_Prime_Movers_Review.md"
+same_source_as: "相关资料/论文与研究报告/原理与综述/NIST_2015_Thermoacoustic_Prime_Movers_Review/Thermoacoustic_Prime_Movers_and_Refrigerators_NIST_2015.md"
 source_status: "local-same-source-copy"
 ---
 

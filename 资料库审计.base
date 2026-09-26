@@ -4,9 +4,9 @@ filters:
     - file.folder == "相关资料"
     - file.basename != "README"
 formulas:
-  role: if(file.basename == "文献整理入口", "文献导航", if(file.basename == "08_多源检索整合", "证据与 provenance", if(file.basename == "12_来源边界与证据结构审查", "技术元数据", if(file.basename == "13_电驱声制冷_技术蒸馏输入筛选", "技术元数据", if(file.basename == "14_电驱线性电机热声制冷研究报告", "技术主报告", if(file.basename == "15_电驱声制冷融资转向与产业化路线报告", "产业化主决策", if(file.basename == "16_应用与性能对标附录", "应用/性能附录", if(file.basename == "20_资料库审计与清理报告", "审计", if(file.basename == "24_理化所余老师交流纪要与合作边界", "一手访谈与合作边界", "待归类")))))))))
-  lifecycle: if(file.basename == "文献整理入口", "保留", if(file.basename == "08_多源检索整合" || file.basename == "14_电驱线性电机热声制冷研究报告" || file.basename == "15_电驱声制冷融资转向与产业化路线报告" || file.basename == "16_应用与性能对标附录" || file.basename == "20_资料库审计与清理报告" || file.basename == "24_理化所余老师交流纪要与合作边界", "保留", if(file.basename == "12_来源边界与证据结构审查" || file.basename == "13_电驱声制冷_技术蒸馏输入筛选", "元数据", "待审计")))
-  evidence: if(file.basename == "文献整理入口", "资料导航", if(file.basename == "08_多源检索整合", "混合来源分层", if(file.basename == "14_电驱线性电机热声制冷研究报告", "技术全文/模型/实验", if(file.basename == "15_电驱声制冷融资转向与产业化路线报告" || file.basename == "16_应用与性能对标附录", "决策层混合证据", if(file.basename == "20_资料库审计与清理报告", "审计记录", if(file.basename == "24_理化所余老师交流纪要与合作边界", "一手口述/公开旁证", "技术边界"))))))
+  role: if(file.basename == "文献整理入口", "文献导航", if(file.basename == "专业名词与分类规则", "分类规则", "待归类"))
+  lifecycle: if(file.basename == "文献整理入口" || file.basename == "专业名词与分类规则", "保留", "待审计")
+  evidence: if(file.basename == "文献整理入口", "资料导航", if(file.basename == "专业名词与分类规则", "分类边界", "待判断"))
 properties:
   formula.role:
     displayName: 角色
@@ -24,7 +24,7 @@ properties:
     displayName: 入链
 views:
   - type: table
-    name: 当前阅读入口
+    name: 当前入口与分类规则
     filters:
       and:
         - formula.lifecycle == "保留"
@@ -35,15 +35,6 @@ views:
       - file.mtime
       - file.links
       - file.backlinks
-  - type: table
-    name: 技术元数据
-    filters:
-      and:
-        - formula.lifecycle == "元数据"
-    order:
-      - file.name
-      - formula.role
-      - file.mtime
   - type: table
     name: 待审计文件
     filters:
