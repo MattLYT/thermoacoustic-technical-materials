@@ -1,24 +1,40 @@
 ---
-title: "Post-positioned gas spring enables ultra-high output power of hybrid thermoacoustic electric generators"
-authors: ["Yuanhang Chen", "Guoyao Yu", "Yanyan Chen", "Shunmin Zhu", "Jing Luo", "Yanlei Sun", "Ercang Luo"]
+title: Post-positioned gas spring enables ultra-high output power of hybrid thermoacoustic electric generators
+authors:
+- Yuanhang Chen
+- Guoyao Yu
+- Yanyan Chen
+- Shunmin Zhu
+- Jing Luo
+- Yanlei Sun
+- Ercang Luo
 year: 2024
-record_category: "论文与研究报告/热声发动机与发电"
-original_filename: "Chen_2024_Post_Positioned_Gas_Spring_HTAEG.pdf"
-source_sha256: "8c7c5a62a177684641eb7692743651ece7012248831eeb24cf8321bd8ac4e561"
-source_status: "online-fulltext"
-source_url: "https://doi.org/10.1016/j.xcrp.2024.101835"
-source_version: "Cell Reports Physical Science 5, 101835；2024-03-20刊期；PDF9页含图文摘要"
+record_category: 论文与研究报告/热声发动机与发电
+original_filename: Chen_2024_Post_Positioned_Gas_Spring_HTAEG.pdf
+source_sha256: 8c7c5a62a177684641eb7692743651ece7012248831eeb24cf8321bd8ac4e561
+source_status: local-source-preserved
+source_url: https://doi.org/10.1016/j.xcrp.2024.101835
+source_version: Cell Reports Physical Science 5, 101835；2024-03-20刊期；PDF9页含图文摘要
 source_pages: 9
-institution: ["中国科学院理化技术研究所", "Durham University"]
-evidence_status: "原始研究：数值构型比较＋后置气弹簧原型实验；最大功率与最高效率不在同一工况。"
-reading_status: "已核对原始全文实验与构型段，图1及图3–4、最高功率/效率工况、加热输入测量说明。"
-doi: "10.1016/j.xcrp.2024.101835"
-download_url: "https://core.ac.uk/download/603224152.pdf"
-input_energy_final_function: "热能→电能"
-pressure_wave_generator: "自由活塞斯特林发动机"
-output_device: "直线发电机"
-engineering_type: "后置气弹簧混合热声发电机"
-phase_control: "排出器与气弹簧的机械调相"
+institution:
+- 中国科学院理化技术研究所
+- Durham University
+evidence_status: 原始研究：数值构型比较＋后置气弹簧原型实验；最大功率与最高效率不在同一工况。
+reading_status: 已核对原始全文实验与构型段，图1及图3–4、最高功率/效率工况、加热输入测量说明。
+doi: 10.1016/j.xcrp.2024.101835
+download_url: https://core.ac.uk/download/603224152.pdf
+input_energy_final_function: 热能→电能
+pressure_wave_generator: 自由活塞斯特林发动机
+output_device: 直线发电机
+engineering_type: 后置气弹簧混合热声发电机
+phase_control: 排出器与气弹簧的机械调相
+source_path: source/Chen_2024_Post_Positioned_Gas_Spring_HTAEG.pdf
+parse_method: MinerU
+parse_path: parsed/Chen_2024_Post_Positioned_Gas_Spring_HTAEG_MinerU全文.md
+acquisition_url: https://fileserver-az.core.ac.uk/download/603224152.pdf
+archive_updated: '2026-10-15'
+parsing_status: 完整页范围机器解析；公式与表格须回原页复核
+book_reference_v1_4: 3
 ---
 
 # Chen等2024：后置气弹簧混合热声发电机
@@ -45,10 +61,10 @@ phase_control: "排出器与气弹簧的机械调相"
 
 对中置与后置气弹簧的效率增幅比较来自数值设计比较；原型测试验证的是后置方案。本文不是所有热声路线在统一热边界下的竞争排名，也不构成长寿命试验。
 
-## 原件与来源
+## 原件与解析
 
-仓库保留文献核读入口，完整PDF从下列公开来源获取；以下页数与哈希对应已核验的原件。
+[[Chen_2024_Post_Positioned_Gas_Spring_HTAEG.pdf|原始 PDF]] · [[Chen_2024_Post_Positioned_Gas_Spring_HTAEG_MinerU全文|MinerU 全文]]
 
-- [公开来源完整PDF](https://core.ac.uk/download/603224152.pdf)
-- [原始发布来源或论文记录](https://doi.org/10.1016/j.xcrp.2024.101835)
-- 已核验原PDF共9页；SHA-256：`8c7c5a62a177684641eb7692743651ece7012248831eeb24cf8321bd8ac4e561`。
+原件 9 页；SHA-256：`8c7c5a62a177684641eb7692743651ece7012248831eeb24cf8321bd8ac4e561`。全文机器转换不等于逐页人工精校，关键公式、表格和数字须核对原件。
+
+[原始来源](https://doi.org/10.1016/j.xcrp.2024.101835)

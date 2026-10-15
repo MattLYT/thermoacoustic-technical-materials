@@ -1,0 +1,43 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "fdd2e24fcc472e98d12a209ef266c2a0e9b2b0f34ce25c6bf42f8a89962b49c6",
+  "source_pages": 7,
+  "parsed_path": "Tijani_Spoelstra_2011_High_Performance_Engine_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "78fdc88657976393156b78e1ee95230fecd0cfe8589e4437deaac51e4e270ce0",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "3c1021cc26b2cc8633142e75504e75b72bf408892d45431dd9bc98ef696bba36"
+  },
+  "archived_markdown_sha256": "0ef1df621951aa955fa419d0b8dba12612ebc4df5a2413a8c2f169c3544bb3cd",
+  "image_count": 14,
+  "source_image_files": 14,
+  "image_reference_count": 6,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "53977c2c-1679-43c3-8256-1902709aed62_content_list.json",
+        "page_count": 7,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "image_references": 6,
+    "image_files": 14,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

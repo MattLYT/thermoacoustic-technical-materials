@@ -1,0 +1,74 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "6912a831cf20b7f454e5d65d368dc8cddea907bdfc27e7111ad53520dbc89720",
+  "source_pages": 38,
+  "parsed_path": "Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "707c48ba0d788aed01cf6d94352ae9d17a0bdd573bd79e6477864373294e2299",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "6aba8167f1ac9fab6e8c5259f5cda66c4a64c8d4211280150b96883c5aad67f9"
+  },
+  "archived_markdown_sha256": "02442026d02920a11ee3754a35a14c3451094cc192766fb0a54f391743ea39e7",
+  "image_count": 89,
+  "source_image_files": 89,
+  "image_reference_count": 51,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "ddea7d70-7e0a-42ba-b61e-52b2cd35f639_content_list.json",
+        "page_count": 38,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    ],
+    "image_references": 51,
+    "image_files": 89,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

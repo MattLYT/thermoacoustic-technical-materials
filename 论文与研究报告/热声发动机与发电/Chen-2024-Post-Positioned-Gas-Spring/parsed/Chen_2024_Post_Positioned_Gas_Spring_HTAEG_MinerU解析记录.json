@@ -1,0 +1,45 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "8c7c5a62a177684641eb7692743651ece7012248831eeb24cf8321bd8ac4e561",
+  "source_pages": 9,
+  "parsed_path": "Chen_2024_Post_Positioned_Gas_Spring_HTAEG_MinerU全文.md",
+  "task_refs": [
+    "batch:a39581c8-054f-4ff7-97f2-58fe8ee5689d"
+  ],
+  "original_markdown_sha256": "4e6fde55894c0d3f9e44dc62bb7e5986a9dbc75b9ba7a150c85f25d395c85451",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "6c5dda9dbe7d7001f836396d3b6860d81305f60965dd767546477ef0d12edeba"
+  },
+  "archived_markdown_sha256": "62769af70e72dd008f26b72cf0ada2c08fc94cea778fad1692479d7d6ca67d56",
+  "image_count": 12,
+  "source_image_files": 12,
+  "image_reference_count": 11,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "77f1dbd8-bf67-44c8-9162-c09b562ce906_content_list.json",
+        "page_count": 9,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    ],
+    "image_references": 11,
+    "image_files": 12,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

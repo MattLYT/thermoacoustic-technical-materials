@@ -1,24 +1,38 @@
 ---
-title: "A thermoacoustic combined cooling, heating, and power (CCHP) system for waste heat and LNG cold energy recovery"
-authors: ["Jingyuan Xu", "Ercang Luo", "Simone Hochgreb"]
+title: A thermoacoustic combined cooling, heating, and power (CCHP) system for waste heat and LNG cold energy recovery
+authors:
+- Jingyuan Xu
+- Ercang Luo
+- Simone Hochgreb
 year: 2021
-record_category: "论文与研究报告/系统集成与联供"
-original_filename: "Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP.pdf"
-source_sha256: "6912a831cf20b7f454e5d65d368dc8cddea907bdfc27e7111ad53520dbc89720"
-source_status: "online-fulltext"
-source_url: "https://doi.org/10.1016/j.energy.2021.120341"
-source_version: "Energy 227, 120341；剑桥机构库作者接受稿，封面注明2021-03-08接收，PDF38页"
+record_category: 论文与研究报告/系统集成与联供
+original_filename: Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP.pdf
+source_sha256: 6912a831cf20b7f454e5d65d368dc8cddea907bdfc27e7111ad53520dbc89720
+source_status: local-source-preserved
+source_url: https://doi.org/10.1016/j.energy.2021.120341
+source_version: Energy 227, 120341；剑桥机构库作者接受稿，封面注明2021-03-08接收，PDF38页
 source_pages: 38
-institution: ["University of Cambridge", "中国科学院理化技术研究所"]
-evidence_status: "理论/数值研究与应用测算；不是三联供整机或装船实测报告。"
-reading_status: "已核对引言、§2.1构型、图1、图18及相邻应用讨论；未逐条审核全部计算曲线。"
-doi: "10.1016/j.energy.2021.120341"
-download_url: "https://api.repository.cam.ac.uk/server/api/core/bitstreams/26b7147c-b221-4409-893f-8cd875fca241/content"
-input_energy_final_function: "热能→热（冷）电联供"
-pressure_wave_generator: "行波热声发动机"
-output_device: ["直线发电机", "热声热泵"]
-engineering_type: "利用余热与LNG冷能的热声冷热电联供系统"
-topology: "四单元闭合环路"
+institution:
+- University of Cambridge
+- 中国科学院理化技术研究所
+evidence_status: 理论/数值研究与应用测算；不是三联供整机或装船实测报告。
+reading_status: 已核对引言、§2.1构型、图1、图18及相邻应用讨论；未逐条审核全部计算曲线。
+doi: 10.1016/j.energy.2021.120341
+download_url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/26b7147c-b221-4409-893f-8cd875fca241/content
+input_energy_final_function: 热能→热（冷）电联供
+pressure_wave_generator: 行波热声发动机
+output_device:
+- 直线发电机
+- 热声热泵
+engineering_type: 利用余热与LNG冷能的热声冷热电联供系统
+topology: 四单元闭合环路
+source_path: source/Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP.pdf
+parse_method: MinerU
+parse_path: parsed/Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP_MinerU全文.md
+acquisition_url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/26b7147c-b221-4409-893f-8cd875fca241/content
+archive_updated: '2026-10-15'
+parsing_status: 完整页范围机器解析；公式与表格须回原页复核
+book_reference_v1_4: 30
 ---
 
 # Xu、Luo与Hochgreb 2021：余热和LNG冷能三联供
@@ -40,15 +54,15 @@ topology: "四单元闭合环路"
 
 原文明确为理论分析。源温条件、阻抗匹配、可供产品组合、费用及减排均依赖设定；不能据此宣称已达到商业整机冷/热/电输出或年度收益。本次主要核对资源边界与拓扑，未逐条复算全部参数扫描和经济测算。
 
-## 原件与来源
-
-仓库保留文献核读入口，完整PDF从下列公开来源获取；以下页数与哈希对应已核验的原件。
-
-- [公开来源完整PDF](https://api.repository.cam.ac.uk/server/api/core/bitstreams/26b7147c-b221-4409-893f-8cd875fca241/content)
-- [原始发布来源或论文记录](https://doi.org/10.1016/j.energy.2021.120341)
-- 已核验原PDF共38页；SHA-256：`6912a831cf20b7f454e5d65d368dc8cddea907bdfc27e7111ad53520dbc89720`。
-
 ## 库内相关来源
 
 - [TANGL_Development](../../../论文与研究报告/系统集成与联供/Wollan-2002-Thermoacoustic-NG-Liquefier/TANGL_Development.md)：相关但不同来源，不标记为同源副本。
 - [2024_Hu_thermoacoustic_micro_CHP_residential](../../../论文与研究报告/系统集成与联供/Hu-2024-Thermoacoustic-Micro-CHP/2024_Hu_thermoacoustic_micro_CHP_residential.md)：相关但不同来源，不标记为同源副本。
+
+## 原件与解析
+
+[[Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP.pdf|原始 PDF]] · [[Xu_Luo_Hochgreb_2021_Waste_Heat_LNG_CCHP_MinerU全文|MinerU 全文]]
+
+原件 38 页；SHA-256：`6912a831cf20b7f454e5d65d368dc8cddea907bdfc27e7111ad53520dbc89720`。全文机器转换不等于逐页人工精校，关键公式、表格和数字须核对原件。
+
+[原始来源](https://doi.org/10.1016/j.energy.2021.120341)

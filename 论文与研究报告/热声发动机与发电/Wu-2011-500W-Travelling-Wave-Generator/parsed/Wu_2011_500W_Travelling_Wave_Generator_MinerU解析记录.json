@@ -1,0 +1,39 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "0b451160c72ce7d80c608c30a045d56c8f3febe9a9c4317711237fdc59d432cc",
+  "source_pages": 3,
+  "parsed_path": "Wu_2011_500W_Travelling_Wave_Generator_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "7fdbbd2c3b2a0e848461510961fbe984ea59c029dea843fdd12e69855913488f",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "95378ddb906b22fe395873dcdd6d1b39c2c479695e1cbe3186cae98cb2bf802f"
+  },
+  "archived_markdown_sha256": "6c814bcd755862e9d4e29debdc91c29e9c79f214a258d3d63335c4a58c63e3f4",
+  "image_count": 7,
+  "source_image_files": 7,
+  "image_reference_count": 4,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "8a1dff11-e280-4df6-9101-3b5ddc98739f_content_list.json",
+        "page_count": 3,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "image_references": 4,
+    "image_files": 7,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

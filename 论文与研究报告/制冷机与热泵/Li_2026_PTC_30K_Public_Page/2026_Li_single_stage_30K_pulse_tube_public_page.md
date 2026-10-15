@@ -1,32 +1,41 @@
 ---
-source_id: "doi:10.12446/j.issn.1006-7086.2026.04.005"
-title: "单级30 K低温脉管制冷机的性能优化研究"
+source_id: doi:10.12446/j.issn.1006-7086.2026.04.005
+title: 单级30 K低温脉管制冷机的性能优化研究
 authors:
-  - "李严恩"
-  - "王乃亮"
-  - "潘明涛"
-  - "高海朋"
-  - "张钰红"
-  - "赵密广"
-  - "王国鹏"
+- 李严恩
+- 王乃亮
+- 潘明涛
+- 高海朋
+- 张钰红
+- 赵密广
+- 王国鹏
 year: 2026
-doi: "10.12446/j.issn.1006-7086.2026.04.005"
+doi: 10.12446/j.issn.1006-7086.2026.04.005
 institution:
-  - "中国科学院理化技术研究所"
-  - "中国科学院大学"
+- 中国科学院理化技术研究所
+- 中国科学院大学
 navigation_family:
-  - "Pulse Tube"
-engineering_type: "电驱脉管制冷机"
-function_boundary: "输入电功→压缩声功→30–40 K制冷"
-drive_chain: "对置直线压缩机→单级同轴脉管冷指"
-phase_control: "惯性管＋双向进气"
-topology: "单级同轴；对置压缩机"
-evidence_grade: "期刊公开全文页面；PDF数据流未归档"
-source_status: "MinerU-public-page-fulltext"
-source_path: "https://vaccryjour.spacejournal.cn/article/doi/10.12446/j.issn.1006-7086.2026.04.005"
-source_url: "https://vaccryjour.spacejournal.cn/article/doi/10.12446/j.issn.1006-7086.2026.04.005"
-mineru_method: "crawl public article page"
-record_category: "论文与研究报告/制冷机与热泵"
+- Pulse Tube
+engineering_type: 电驱脉管制冷机
+function_boundary: 输入电功→压缩声功→30–40 K制冷
+drive_chain: 对置直线压缩机→单级同轴脉管冷指
+phase_control: 惯性管＋双向进气
+topology: 单级同轴；对置压缩机
+evidence_grade: 期刊原始论文PDF；6页全文机器解析
+source_status: local-source-preserved
+source_path: source/Li_2026_Single_Stage_30K_Pulse_Tube.pdf
+source_url: https://vaccryjour.spacejournal.cn/article/doi/10.12446/j.issn.1006-7086.2026.04.005
+mineru_method: precision PDF API; full 1-6 pages
+record_category: 论文与研究报告/制冷机与热泵
+source_sha256: 905ed2b736e39b02db33a928997260d102c8d7fc7ee37bd0352956d3c1998dbf
+source_pages: 6
+parse_method: MinerU
+parse_path: parsed/Li_2026_Single_Stage_30K_Pulse_Tube_MinerU全文.md
+acquisition_url: https://vaccryjour.spacejournal.cn/article/doi/10.12446/j.issn.1006-7086.2026.04.005
+archive_updated: '2026-10-15'
+parsing_status: 完整页范围机器解析；公式与表格须回原页复核
+book_reference_v1_4: 14
+reading_status: 核对题名、DOI与6页原件身份；不将机器全文转换等同逐页人工核读
 ---
 
 单级30 K低温脉管制冷机的性能优化研究
@@ -92,3 +101,11 @@ High-performance infrared detectors—particularly long-wave infrared (LWIR) HgC
 | [12] | LIU S S,JIANG Z H,ZHANG A K,et al. Study on high energy efficiency 30 K single-stage pulse tube cryocooler for a space infrared detector[J]. Journal of Infrared and Millimeter Waves,2018,37(4):403−410. |
 | [13] | WANG N,ZHAO M,CHEN H,et al. 24 K single-stage coaxial pulse tube cryocooler without double-inlet phase shifter[Z]//Cryocoolers 21,ICC Press Boulder,CO,2021:169−173. |
 | [14] | HUI H,SONG J,YIN W,et al. An efficient high cooling-capacity 40 K pulse tube refrigerator using an active dual-piston as phase shifter[J]. Energy,2024,286:129534. DOI: 10.1016/j.energy.2023.129534 |
+
+## 原件与解析
+
+[[Li_2026_Single_Stage_30K_Pulse_Tube.pdf|原始 PDF]] · [[Li_2026_Single_Stage_30K_Pulse_Tube_MinerU全文|MinerU 全文]]
+
+原件 6 页；SHA-256：`905ed2b736e39b02db33a928997260d102c8d7fc7ee37bd0352956d3c1998dbf`。全文机器转换不等于逐页人工精校，关键公式、表格和数字须核对原件。
+
+[原始来源](https://vaccryjour.spacejournal.cn/article/doi/10.12446/j.issn.1006-7086.2026.04.005)

@@ -1,7 +1,14 @@
 ---
-record_category: "论文与研究报告/制冷机与热泵"
-source_path: "相关资料/论文与研究报告/制冷机与热泵/2024_Xiao_bypass_heat_driven_cooling_CellReports/source/2024_Xiao_bypass_heat_driven_cooling_CellReports.pdf"
+record_category: 论文与研究报告/制冷机与热泵
+source_path: 相关资料/论文与研究报告/制冷机与热泵/2024_Xiao_bypass_heat_driven_cooling_CellReports/source/2024_Xiao_bypass_heat_driven_cooling_CellReports.pdf
+supplement_source_path: source/Xiao_2024_CellReports_Supplement_mmc1.pdf
+supplement_sha256: 181ad9cfc0a1831246af42b6c0235cdabf1d5e4dff3e9049060853505d59e27c
+supplement_pages: 11
+supplement_parse_path: parsed/Xiao_2024_CellReports_Supplement_mmc1_MinerU全文.md
+supplement_status: 独立补充材料PDF与MinerU全文已归档
+archive_updated: '2026-10-15'
 ---
+
 ## Article
 
 ## A highly efficient heat-driven thermoacoustic cooling system
@@ -375,3 +382,11 @@ thermoacoustic-Stirling heat engine. Ultrasonics 44, e1531–e1533.
 65. Kang, H., Zhou, G., and Li, Q. (2010). Heat driven thermoacoustic cooler based on traveling–standing wave. Energy Convers. Manag. 51, 2103–2108.
 
 66. Saechan, P., and Jaworski, A.J. (2018). Thermoacoustic cooler to meet medical storage needs of rural communities in developing countries–High pressure system. Therm. Sci. Eng. Prog. 8, 31–46.
+
+## 独立补充材料
+
+[[Xiao_2024_CellReports_Supplement_mmc1.pdf|出版社独立补充材料]] · [[Xiao_2024_CellReports_Supplement_mmc1_MinerU全文|补充材料MinerU全文]]
+
+原件11页。补充式S2位于PDF第5页（补充页4），S6位于PDF第6页（补充页5）；机器解析供检索，公式使用仍须回原页核对。
+
+[出版社来源](https://ars.els-cdn.com/content/image/1-s2.0-S2666386424000407-mmc1.pdf)

@@ -1,18 +1,27 @@
 ---
-title: "Thermoacoustic engines and refrigerators: A short course"
-authors: ["Gregory W. Swift"]
+title: 'Thermoacoustic engines and refrigerators: A short course'
+authors:
+- Gregory W. Swift
 year: 1999
-record_category: "论文与研究报告/原理与综述"
-original_filename: "Swift_1999_Thermoacoustic_Short_Course.pdf"
-source_sha256: "ad18d396747856d8e405c355654d4c8aba0dafb34cfc95b0f5da02e70b06ca1a"
-source_status: "online-fulltext"
-source_url: "https://www.osti.gov/servlets/purl/756947"
-download_url: "https://www.osti.gov/servlets/purl/756947"
-source_version: "Rough draft—Berlin version, Winter 1999；179页扫描原稿，不是后续出版专著的相同版本"
+record_category: 论文与研究报告/原理与综述
+original_filename: Swift_1999_Thermoacoustic_Short_Course.pdf
+source_sha256: ad18d396747856d8e405c355654d4c8aba0dafb34cfc95b0f5da02e70b06ca1a
+source_status: local-source-preserved
+source_url: https://www.osti.gov/servlets/purl/756947
+download_url: https://www.osti.gov/servlets/purl/756947
+source_version: Rough draft—Berlin version, Winter 1999；179页扫描原稿，不是后续出版专著的相同版本
 source_pages: 179
-institution: ["Los Alamos National Laboratory"]
-evidence_status: "作者原始理论讲稿；包含方程、推导与装置示例，不能作为某一现代产品性能或寿命的证据。"
-reading_status: "已取得完整179页原稿；重点核对声学、回热器、能流与声流章节及相关原页，未声称逐页精读全书。"
+institution:
+- Los Alamos National Laboratory
+evidence_status: 作者原始理论讲稿；包含方程、推导与装置示例，不能作为某一现代产品性能或寿命的证据。
+reading_status: 已取得完整179页原稿；重点核对声学、回热器、能流与声流章节及相关原页，未声称逐页精读全书。
+source_path: source/Swift_1999_Thermoacoustic_Short_Course.pdf
+parse_method: MinerU
+parse_path: parsed/Swift_1999_Thermoacoustic_Short_Course_MinerU全文.md
+acquisition_url: https://digital.library.unt.edu/ark:/67531/metadc708875/m2/1/high_res_d/756947.pdf
+archive_updated: '2026-10-15'
+parsing_status: 完整页范围机器解析；公式与表格须回原页复核
+book_reference_v1_4: 1
 ---
 
 # Swift 1999：热声发动机与制冷机短课程原稿
@@ -36,10 +45,10 @@ reading_status: "已取得完整179页原稿；重点核对声学、回热器、
 
 此稿适合作为机制和模型的原始依据。不同装置的实际效率、工质、寿命与成本仍需各自的原始实验或工程报告。扫描识别的公式应回到原PDF核对。
 
-## 原件与来源
+## 原件与解析
 
-仓库保留文献核读入口，完整PDF从下列公开来源获取；以下页数与哈希对应已核验的原件。
+[[Swift_1999_Thermoacoustic_Short_Course.pdf|原始 PDF]] · [[Swift_1999_Thermoacoustic_Short_Course_MinerU全文|MinerU 全文]]
 
-- [公开来源完整PDF](https://www.osti.gov/servlets/purl/756947)
-- [原始发布来源或论文记录](https://www.osti.gov/servlets/purl/756947)
-- 已核验原PDF共179页；SHA-256：`ad18d396747856d8e405c355654d4c8aba0dafb34cfc95b0f5da02e70b06ca1a`。
+原件 179 页；SHA-256：`ad18d396747856d8e405c355654d4c8aba0dafb34cfc95b0f5da02e70b06ca1a`。全文机器转换不等于逐页人工精校，关键公式、表格和数字须核对原件。
+
+[原始来源](https://www.osti.gov/servlets/purl/756947)

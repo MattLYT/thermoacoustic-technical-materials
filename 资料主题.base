@@ -3,6 +3,7 @@ filters:
     - file.ext == "md"
     - file.inFolder("相关资料")
     - file.basename != "README"
+    - note.record_role != "machine-transcription"
     - or:
         - file.inFolder("相关资料/论文与研究报告")
         - file.inFolder("相关资料/专利")
@@ -55,6 +56,10 @@ properties:
     displayName: 来源状态
   note.source_path:
     displayName: 原文路径
+  note.parse_method:
+    displayName: 解析方法
+  note.parsing_status:
+    displayName: 解析状态
   note.same_source_as:
     displayName: 同源主记录
 views:

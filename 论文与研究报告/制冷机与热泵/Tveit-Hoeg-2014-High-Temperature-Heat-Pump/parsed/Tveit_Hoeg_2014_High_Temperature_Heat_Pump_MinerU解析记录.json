@@ -1,0 +1,46 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "194b6167223f55117069079d4ce7f54bbf5228b3c1cb2a3d6d4c2cb47fbad1ad",
+  "source_pages": 10,
+  "parsed_path": "Tveit_Hoeg_2014_High_Temperature_Heat_Pump_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "b9f580bf090db8931c62b0ea52428ac719bbcfa07d3ffa88dbcb75bf16375e2c",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "b4ef1a58f98b774dd6550714e3d53053a81b99951a336bd34e2d71aa47a09da2"
+  },
+  "archived_markdown_sha256": "70ef4ec70530b932eb5c1850d46c6cf5969d824da44b8050254cefa297a9bc4b",
+  "image_count": 21,
+  "source_image_files": 21,
+  "image_reference_count": 20,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "4317bbb4-cd1f-4189-a019-f768e18a5779_content_list.json",
+        "page_count": 10,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "image_references": 20,
+    "image_files": 21,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

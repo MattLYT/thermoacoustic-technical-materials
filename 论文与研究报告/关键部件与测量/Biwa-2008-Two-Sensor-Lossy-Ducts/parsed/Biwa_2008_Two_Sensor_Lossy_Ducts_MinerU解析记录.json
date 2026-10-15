@@ -1,0 +1,43 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "00b178faa92ee4f1d2370fce9747105cbdcdeab944280b3fb9278dd48787cff7",
+  "source_pages": 7,
+  "parsed_path": "Biwa_2008_Two_Sensor_Lossy_Ducts_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "6d58817855f645cdecf90f8c4504036acdaba380544318a536f54f58f1eb80ad",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "21345f569c6719528f10c7a6bc7ec282583ad5ddac8c8441f08d99de682237d1"
+  },
+  "archived_markdown_sha256": "c4c23696d703912a66d0b86a30f41395d36253ca3ce2146171560c5078c9c4ac",
+  "image_count": 25,
+  "source_image_files": 25,
+  "image_reference_count": 10,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "da452fb0-0952-4b08-9a50-b9b085dac789_content_list.json",
+        "page_count": 7,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ],
+    "image_references": 10,
+    "image_files": 25,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

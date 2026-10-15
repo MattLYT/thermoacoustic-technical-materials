@@ -1,0 +1,37 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "17fe75da3e7b2ebca03bb718b4be3827626dd3f8bc63a2eac162ec368e7ffa3e",
+  "source_pages": 1,
+  "parsed_path": "Cryomech_2022_PT420_RM_Capacity_Curve_MinerU全文.md",
+  "task_refs": [
+    "batch:16bfddc8-b330-4134-9977-bd2c033fba8e"
+  ],
+  "original_markdown_sha256": "f245bb12d7eeec2933181c0a0e2fe5d9674acf26d43a7b8dec49e839a4734d28",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "0ccf36b8f0336a0443752185b1f56a8e12bf691fcf6e40314ca590a9dad80e76"
+  },
+  "archived_markdown_sha256": "4e404f1272d4d869af31a899e44e798664616a3c6004c76f61535cd5783219ab",
+  "image_count": 1,
+  "source_image_files": 1,
+  "image_reference_count": 1,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "c345cf27-969e-4635-b88e-1263686d320a_content_list.json",
+        "page_count": 1,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0
+        ]
+      }
+    ],
+    "image_references": 1,
+    "image_files": 1,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

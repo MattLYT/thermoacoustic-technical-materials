@@ -1,0 +1,47 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "181ad9cfc0a1831246af42b6c0235cdabf1d5e4dff3e9049060853505d59e27c",
+  "source_pages": 11,
+  "parsed_path": "Xiao_2024_CellReports_Supplement_mmc1_MinerU全文.md",
+  "task_refs": [
+    "batch:ce86f171-4294-4c82-a859-8a37843f7d8e"
+  ],
+  "original_markdown_sha256": "66a148bb1c1e45742af3712a2d996c01dca0e830899184630762a441f1ac4ef5",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "bde4d49efb039c298bfff7fa9ede4682cb92795666ee38b7c574e5215fd5d635"
+  },
+  "archived_markdown_sha256": "b707d50c62ff6602b6cec197f5e17984ad39a99db7afc40c4272461a004fd202",
+  "image_count": 32,
+  "source_image_files": 32,
+  "image_reference_count": 3,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "70fee313-7ee1-41b9-b52c-721b098c1997_content_list.json",
+        "page_count": 11,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "image_references": 3,
+    "image_files": 32,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

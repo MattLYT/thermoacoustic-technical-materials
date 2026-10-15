@@ -1,0 +1,42 @@
+{
+  "parser": "MinerU",
+  "source_sha256": "905ed2b736e39b02db33a928997260d102c8d7fc7ee37bd0352956d3c1998dbf",
+  "source_pages": 6,
+  "parsed_path": "Li_2026_Single_Stage_30K_Pulse_Tube_MinerU全文.md",
+  "task_refs": [
+    "batch:ce86f171-4294-4c82-a859-8a37843f7d8e"
+  ],
+  "original_markdown_sha256": "195ce41462c536d1a8c306ca5f5435166035bef051ea0ee64489d7d1e224c446",
+  "mineru_zip_sha256": {
+    "mineru-original.zip": "c256dcb3d74ed22c48226f019c3eef774964a039c45e2fcb2b2d74868469fea5"
+  },
+  "archived_markdown_sha256": "0dd9b806662d6871cf79cee1c175e9b0ab8d2e0e65be1212453f381a55429845",
+  "image_count": 10,
+  "source_image_files": 10,
+  "image_reference_count": 8,
+  "validation": {
+    "markdown": [
+      "full.md"
+    ],
+    "page_evidence": [
+      {
+        "file": "e8a616a3-7334-445c-8323-87328fdbc13a_content_list.json",
+        "page_count": 6,
+        "field": "page_idx",
+        "page_indices_zero_based": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "image_references": 8,
+    "image_files": 10,
+    "missing_images": []
+  },
+  "converted_at": "2026-10-15",
+  "review_scope": "机器全文转换；未声称逐页人工精校"
+}

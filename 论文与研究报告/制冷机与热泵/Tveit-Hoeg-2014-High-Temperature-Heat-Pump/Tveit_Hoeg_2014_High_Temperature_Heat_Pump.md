@@ -1,21 +1,31 @@
 ---
-title: "Performance analysis and verification of a novel high temperature difference heat pump"
-authors: ["Tor-Martin Tveit", "Arne Høeg"]
+title: Performance analysis and verification of a novel high temperature difference heat pump
+authors:
+- Tor-Martin Tveit
+- Arne Høeg
 year: 2014
-record_category: "论文与研究报告/制冷机与热泵"
-original_filename: "Tveit_Hoeg_2014_High_Temperature_Heat_Pump.pdf"
-source_sha256: "194b6167223f55117069079d4ce7f54bbf5228b3c1cb2a3d6d4c2cb47fbad1ad"
-source_status: "online-fulltext"
-source_url: "https://etkhpcorderapi.extweb.sp.se/api/file/1124"
-download_url: "https://etkhpcorderapi.extweb.sp.se/api/file/1124"
-source_version: "11th IEA Heat Pump Conference，Paper O.2.2.3，2014-05-12至16，10页会议论文"
+record_category: 论文与研究报告/制冷机与热泵
+original_filename: Tveit_Hoeg_2014_High_Temperature_Heat_Pump.pdf
+source_sha256: 194b6167223f55117069079d4ce7f54bbf5228b3c1cb2a3d6d4c2cb47fbad1ad
+source_status: local-source-preserved
+source_url: https://etkhpcorderapi.extweb.sp.se/api/file/1124
+download_url: https://etkhpcorderapi.extweb.sp.se/api/file/1124
+source_version: 11th IEA Heat Pump Conference，Paper O.2.2.3，2014-05-12至16，10页会议论文
 source_pages: 10
-institution: ["Single-Phase Power AS"]
-evidence_status: "厂商作者撰写的现场原始测试论文；三个10分钟测试窗口，不是独立多年能效或耐久认证。"
-reading_status: "原始10页全文已读；第7页表1已做原页视觉核对。"
-input_energy_final_function: "电能→供热"
-engineering_type: "有曲轴的四缸双作用斯特林热泵"
-phase_control: "机械调相"
+institution:
+- Single-Phase Power AS
+evidence_status: 厂商作者撰写的现场原始测试论文；三个10分钟测试窗口，不是独立多年能效或耐久认证。
+reading_status: 原始10页全文已读；第7页表1已做原页视觉核对。
+input_energy_final_function: 电能→供热
+engineering_type: 有曲轴的四缸双作用斯特林热泵
+phase_control: 机械调相
+source_path: source/Tveit_Hoeg_2014_High_Temperature_Heat_Pump.pdf
+parse_method: MinerU
+parse_path: parsed/Tveit_Hoeg_2014_High_Temperature_Heat_Pump_MinerU全文.md
+acquisition_url: https://etkhpcorderapi.extweb.sp.se/api/file/1124
+archive_updated: '2026-10-15'
+parsing_status: 完整页范围机器解析；公式与表格须回原页复核
+book_reference_v1_4: 16
 ---
 
 # Tveit与Høeg 2014：HighLift高温差热泵的现场测试
@@ -35,10 +45,10 @@ phase_control: "机械调相"
 
 实际现场测量可以支撑“已有工厂安装并测得这些测试点”。本文作者来自设备企业，三个短窗口不能证明全年系统效率、维护成本或长期寿命。与热声、自由活塞热泵比较时，应保留热源/热汇温度及输入功率口径，不能只按最高温度或峰值COP排序。
 
-## 原件与来源
+## 原件与解析
 
-仓库保留文献核读入口，完整PDF从下列公开来源获取；以下页数与哈希对应已核验的原件。
+[[Tveit_Hoeg_2014_High_Temperature_Heat_Pump.pdf|原始 PDF]] · [[Tveit_Hoeg_2014_High_Temperature_Heat_Pump_MinerU全文|MinerU 全文]]
 
-- [公开来源完整PDF](https://etkhpcorderapi.extweb.sp.se/api/file/1124)
-- [原始发布来源或论文记录](https://etkhpcorderapi.extweb.sp.se/api/file/1124)
-- 已核验原PDF共10页；SHA-256：`194b6167223f55117069079d4ce7f54bbf5228b3c1cb2a3d6d4c2cb47fbad1ad`。
+原件 10 页；SHA-256：`194b6167223f55117069079d4ce7f54bbf5228b3c1cb2a3d6d4c2cb47fbad1ad`。全文机器转换不等于逐页人工精校，关键公式、表格和数字须核对原件。
+
+[原始来源](https://etkhpcorderapi.extweb.sp.se/api/file/1124)
