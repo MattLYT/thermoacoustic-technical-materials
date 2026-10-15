@@ -1,12 +1,14 @@
 filters:
   and:
     - file.ext == "md"
-    - file.folder == "相关资料"
     - file.basename != "README"
+    - or:
+        - file.folder == "相关资料"
+        - file.folder == "相关资料/索引"
 formulas:
-  role: if(file.basename == "文献整理入口", "文献导航", if(file.basename == "专业名词与分类规则", "分类规则", "待归类"))
-  lifecycle: if(file.basename == "文献整理入口" || file.basename == "专业名词与分类规则", "保留", "待审计")
-  evidence: if(file.basename == "文献整理入口", "资料导航", if(file.basename == "专业名词与分类规则", "分类边界", "待判断"))
+  role: if(file.folder == "相关资料/索引", "索引清册", if(file.basename == "文献整理入口", "文献导航", if(file.basename == "专业名词与分类规则", "分类规则", "待归类")))
+  lifecycle: if(file.folder == "相关资料/索引" || file.basename == "文献整理入口" || file.basename == "专业名词与分类规则", "保留", "待审计")
+  evidence: if(file.folder == "相关资料/索引", "来源状态与清册", if(file.basename == "文献整理入口", "资料导航", if(file.basename == "专业名词与分类规则", "分类边界", "待判断")))
 properties:
   formula.role:
     displayName: 角色
@@ -14,6 +16,8 @@ properties:
     displayName: 生命周期
   formula.evidence:
     displayName: 证据层
+  file.folder:
+    displayName: 归档目录
   file.name:
     displayName: 文件
   file.mtime:
@@ -25,12 +29,16 @@ properties:
 views:
   - type: table
     name: 当前入口与分类规则
+    groupBy:
+      property: role
+      direction: ASC
     filters:
       and:
         - formula.lifecycle == "保留"
     order:
       - formula.role
       - file.name
+      - file.folder
       - formula.evidence
       - file.mtime
       - file.links
@@ -42,4 +50,5 @@ views:
         - formula.lifecycle == "待审计"
     order:
       - file.name
+      - file.folder
       - file.mtime

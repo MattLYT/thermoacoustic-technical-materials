@@ -2,8 +2,7 @@
 record_category: 论文与研究报告/原理与综述
 title: 斯特林引擎模型制作
 record_role: source-entry
-source_path: 相关资料/论文与研究报告/原理与综述/Hamaguchi_Stirling_Engine_Model_Making_CN/source/斯特林引擎模型制作_12637421_（日）滨口和...
-  (.pdf
+source_path: "相关资料/论文与研究报告/原理与综述/Hamaguchi_Stirling_Engine_Model_Making_CN/source/斯特林引擎模型制作_12637421_（日）滨口和... (.pdf"
 source_status: local-original
 parsing_status: catalogued
 acquired_date: '2026-10-15'

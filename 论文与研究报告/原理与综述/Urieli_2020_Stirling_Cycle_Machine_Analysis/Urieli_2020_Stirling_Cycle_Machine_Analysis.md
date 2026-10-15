@@ -2,8 +2,7 @@
 record_category: 论文与研究报告/原理与综述
 title: Stirling Cycle Machine Analysis
 record_role: source-entry
-source_path: 相关资料/论文与研究报告/原理与综述/Urieli_2020_Stirling_Cycle_Machine_Analysis/source/Stirling
-  Cycle Machine Analysis.pdf
+source_path: "相关资料/论文与研究报告/原理与综述/Urieli_2020_Stirling_Cycle_Machine_Analysis/source/Stirling Cycle Machine Analysis.pdf"
 source_status: local-original
 parsing_status: catalogued
 acquired_date: '2026-10-15'

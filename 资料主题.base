@@ -10,6 +10,8 @@ filters:
         - file.inFolder("相关资料/专利")
         - file.inFolder("相关资料/机构与产品资料")
         - file.inFolder("相关资料/交流与原始素材")
+formulas:
+  display_title: if(note.title != null, note.title, file.name)
 properties:
   file.folder:
     displayName: 归档目录
@@ -23,6 +25,8 @@ properties:
     displayName: 出链
   note.title:
     displayName: 标题
+  formula.display_title:
+    displayName: 标题（缺省为文件名）
   note.authors:
     displayName: 作者
   note.year:
@@ -87,7 +91,7 @@ views:
       direction: ASC
     order:
       - institution
-      - title
+      - formula.display_title
       - year
       - evidence_grade
       - source_status
@@ -102,7 +106,7 @@ views:
       direction: ASC
     order:
       - input_energy_final_function
-      - title
+      - formula.display_title
       - pressure_wave_generator
       - output_device
       - engineering_type
@@ -118,7 +122,7 @@ views:
       direction: ASC
     order:
       - engineering_type
-      - title
+      - formula.display_title
       - pressure_wave_generator
       - output_device
       - drive_chain
@@ -136,7 +140,7 @@ views:
     order:
       - source_status
       - evidence_grade
-      - title
+      - formula.display_title
       - institution
       - year
       - doi
@@ -150,7 +154,7 @@ views:
       direction: DESC
     order:
       - year
-      - title
+      - formula.display_title
       - authors
       - institution
       - record_category
