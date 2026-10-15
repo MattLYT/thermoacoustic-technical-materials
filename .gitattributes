@@ -1,2 +1,5 @@
 **/parsed/*_MinerU全文.md text eol=lf
 **/parsed/*_MinerU解析记录.json text eol=lf
+
+# Preserve original source bytes, including model files and supplied Markdown.
+**/source/** -text

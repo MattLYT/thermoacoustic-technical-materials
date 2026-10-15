@@ -2,6 +2,7 @@ filters:
   and:
     - file.ext == "md"
     - file.inFolder("相关资料")
+    - '!file.path.contains("/source/")'
     - file.basename != "README"
     - note.record_role != "machine-transcription"
     - or:
