@@ -7,6 +7,7 @@ source_path: 相关资料/论文与研究报告/制冷机与热泵/Liu_2017_GM_P
 source_status: local-original
 parsing_status: catalogued
 acquired_date: '2026-10-15'
+original_download: "GMtypePulseTube.pdf"
 authors:
 - Dongli Liu
 - Marc Dietrich
@@ -29,4 +30,4 @@ year: 2017
 
 文件检查：PDF可打开，页数为7页；已检查首页可渲染。
 
-归档追溯见 [QQ 下载资料归档清单](../../../%E7%B4%A2%E5%BC%95/QQ%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99_%E5%BD%92%E6%A1%A3%E6%B8%85%E5%8D%95_20261015.md)。
+来源登记与归档规则见 [资料库说明 · 交流资料](../../../README.md#交流资料)。

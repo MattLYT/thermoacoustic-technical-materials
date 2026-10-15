@@ -6,6 +6,7 @@ source_path: 相关资料/交流与原始素材/软件与模型/Sage5_LT_Softwar
 source_status: local-original
 parsing_status: catalogued
 acquired_date: '2026-10-15'
+original_download: "SAGE5-包含LT.zip"
 ---
 
 # Sage 5 软件与示例模型包（含 LT）
@@ -20,4 +21,4 @@ acquired_date: '2026-10-15'
 
 原ZIP完整保留。221个条目、193个文件，含安装程序、示例模型和手册。包内同名模型存在不同内容版本，使用时须保留原目录。仅完成归档与压缩文件校验。
 
-归档追溯见 [QQ 下载资料归档清单](../../../%E7%B4%A2%E5%BC%95/QQ%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99_%E5%BD%92%E6%A1%A3%E6%B8%85%E5%8D%95_20261015.md)。
+来源登记与归档规则见 [资料库说明 · 交流资料](../../../README.md#交流资料)。
