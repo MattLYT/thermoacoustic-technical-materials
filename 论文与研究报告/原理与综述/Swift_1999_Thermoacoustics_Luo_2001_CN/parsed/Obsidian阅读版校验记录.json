@@ -1,0 +1,225 @@
+{
+  "input_sha256": "9e9f19f3eb327a5230e8a59ded62e7face2c695883fb80fb7a242c74e77d3a01",
+  "input_path": "parsed\\热声学_统一方法_Swift著_罗二仓译_MinerU全文.md",
+  "generated_files": [
+    {
+      "path": "阅读版/Swift热声学_00_前言与符号.md",
+      "sha256": "4a1624fc1a7752425a9d90b40352db3de9576e1bfd58298966209b04ba2b95c6",
+      "sections": 3
+    },
+    {
+      "path": "阅读版/Swift热声学_01_绪论.md",
+      "sha256": "a6bb92197fb3c5db3b378ecfc2e25d3e0bbfdadb7738f1b042e2eed57ce27282",
+      "sections": 13
+    },
+    {
+      "path": "阅读版/Swift热声学_02_声波.md",
+      "sha256": "1acc3e7f051bb3d136d2368c89a880012e4386716455cc313c9af918680ca1ea",
+      "sections": 14
+    },
+    {
+      "path": "阅读版/Swift热声学_03_功率.md",
+      "sha256": "f73a543317adb9d54ea168ba1cde59acdcb0cfa41ea4554e21959a24eeedfe8f",
+      "sections": 15
+    },
+    {
+      "path": "阅读版/Swift热声学_04_效率.md",
+      "sha256": "ae727335546593f11302914f9d04fa58c9483b520a4e33a1f53d0ef641e07ca1",
+      "sections": 4
+    },
+    {
+      "path": "阅读版/Swift热声学_05_超出Rott热声学的问题.md",
+      "sha256": "cb429ce1ab4fed5cf33c4913b2289cdee9fddd0918b9564e0a71f961d120ead6",
+      "sections": 24
+    },
+    {
+      "path": "阅读版/Swift热声学_06_硬件.md",
+      "sha256": "9174e3f542a40d2b22bc4ae4213a175e3b2486655806b86cfa9bd11643a3b13d",
+      "sections": 14
+    },
+    {
+      "path": "阅读版/Swift热声学_07_测量.md",
+      "sha256": "3038188fa771d20f691ed9544f0517be8800265c07b009ab4f14646de565cd20",
+      "sections": 17
+    },
+    {
+      "path": "阅读版/Swift热声学_08_附录索引与文献.md",
+      "sha256": "efebdb207f9c81dc772b40176e02753ec5eb9a43902a580430d55e4098fbaa10",
+      "sections": 23
+    }
+  ],
+  "html_tables_converted": 4,
+  "image_embeds": 136,
+  "transformations": [
+    "分章和相邻章导航",
+    "重建标题层级和节目录",
+    "本地图片使用Obsidian嵌入并限制宽度",
+    "无合并单元格的HTML表格转Markdown；首行保留为数据行",
+    "原封面和目录由入口及章节导航替代；原始解析稿保持不变"
+  ],
+  "scientific_content": "保留原始公式、段落和数字；未经英文底本逐式校对",
+  "math_repairs": [],
+  "formula_preservation": {
+    "original_expressions": 2034,
+    "missing_or_modified": 0,
+    "check": "逐条比较TeX内容；目录重复不计作新增科学内容"
+  },
+  "obsidian_verification": {
+    "version": "1.14.4 (installer 1.12.7)",
+    "links": {
+      "notes": 9,
+      "missing": [],
+      "missing_anchors": [],
+      "stats": [
+        {
+          "file": "Swift热声学_08_附录索引与文献.md",
+          "headings": 24,
+          "blocks": 23,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_07_测量.md",
+          "headings": 18,
+          "blocks": 17,
+          "embeds": 14,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_06_硬件.md",
+          "headings": 15,
+          "blocks": 14,
+          "embeds": 17,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_05_超出Rott热声学的问题.md",
+          "headings": 25,
+          "blocks": 24,
+          "embeds": 25,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_04_效率.md",
+          "headings": 5,
+          "blocks": 4,
+          "embeds": 9,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_02_声波.md",
+          "headings": 15,
+          "blocks": 14,
+          "embeds": 28,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_03_功率.md",
+          "headings": 16,
+          "blocks": 15,
+          "embeds": 10,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_01_绪论.md",
+          "headings": 14,
+          "blocks": 13,
+          "embeds": 33,
+          "role": "machine-transcription"
+        },
+        {
+          "file": "Swift热声学_00_前言与符号.md",
+          "headings": 4,
+          "blocks": 3,
+          "role": "machine-transcription"
+        }
+      ]
+    },
+    "views": [
+      {
+        "file": "Swift热声学_02_声波.md",
+        "math": 19,
+        "errors": [],
+        "images": [
+          {
+            "loaded": true,
+            "width": 393,
+            "naturalWidth": 393
+          },
+          {
+            "loaded": true,
+            "width": 274,
+            "naturalWidth": 274
+          },
+          {
+            "loaded": true,
+            "width": 354,
+            "naturalWidth": 354
+          },
+          {
+            "loaded": true,
+            "width": 334,
+            "naturalWidth": 334
+          }
+        ]
+      },
+      {
+        "file": "Swift热声学_03_功率.md",
+        "math": 34,
+        "errors": [],
+        "images": [
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 776
+          },
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 679
+          }
+        ]
+      },
+      {
+        "file": "Swift热声学_04_效率.md",
+        "math": 10,
+        "errors": [],
+        "images": [
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 742
+          },
+          {
+            "loaded": true,
+            "width": 443,
+            "naturalWidth": 443
+          },
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 776
+          },
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 754
+          }
+        ]
+      },
+      {
+        "file": "Swift热声学_05_超出Rott热声学的问题.md",
+        "math": 12,
+        "errors": [],
+        "images": [
+          {
+            "loaded": true,
+            "width": 640,
+            "naturalWidth": 646
+          }
+        ]
+      }
+    ],
+    "image_index_count": 487,
+    "scope": "九篇链接与锚点全检；第二至第五章阅读视图抽样无MathJax错误，图片正常加载；未完成逐式或逐页人工校对"
+  }
+}
