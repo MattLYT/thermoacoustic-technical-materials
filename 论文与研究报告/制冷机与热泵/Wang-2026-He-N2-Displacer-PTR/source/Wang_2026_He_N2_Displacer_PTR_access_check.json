@@ -84,6 +84,29 @@
         "metadata_http_status": 429,
         "result": "RATE_LIMIT_EXCEEDED；未取得正文"
       }
+    },
+    {
+      "checked_at": "2026-10-16",
+      "scope": "public-only; institutional access paused",
+      "exa": "Exact DOI/title and author-manuscript/repository searches returned no verified target PDF",
+      "openai_web": "Exact title/DOI, PDF and manuscript searches; no target journal PDF acquired",
+      "sider_scholar": {
+        "query_type": "title advanced_search",
+        "papers_returned": 0
+      },
+      "undermind": {
+        "cite_key": "Wan26b",
+        "doi_matched": true,
+        "pdf_status": "unavailable",
+        "download_links_status": "unavailable"
+      },
+      "scispace": "No target paper in returned similar-paper list",
+      "elicit": "api_access_denied; search not completed",
+      "formal_pdf_acquired": false,
+      "researchgate": {
+        "status": "No full-text available; request required",
+        "url": "https://www.researchgate.net/publication/399747383_Investigation_on_displacer-type_pulse_tube_refrigerator_performance_using_helium-nitrogen_refrigerant_mixtures"
+      }
     }
   ]
 }

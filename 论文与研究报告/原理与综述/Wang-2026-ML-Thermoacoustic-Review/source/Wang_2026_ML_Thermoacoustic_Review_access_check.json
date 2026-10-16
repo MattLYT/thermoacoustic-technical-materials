@@ -91,6 +91,25 @@
         "result": "默认META仅有题录；FULL PDF请求提示Invalid API Key",
         "documentation": "https://dev.elsevier.com/documentation/ArticleRetrievalAPI.wadl"
       }
+    },
+    {
+      "checked_at": "2026-10-16",
+      "scope": "public-only; institutional access paused",
+      "exa": "Exact DOI/title and author-manuscript/repository searches returned no verified target PDF",
+      "openai_web": "Exact title/DOI, PDF and manuscript searches; no target journal PDF acquired",
+      "sider_scholar": {
+        "query_type": "title advanced_search",
+        "papers_returned": 0
+      },
+      "undermind": {
+        "cite_key": "Wan26",
+        "doi_matched": true,
+        "pdf_status": "unavailable",
+        "download_links_status": "unavailable"
+      },
+      "scispace": "No target paper in returned similar-paper list",
+      "elicit": "api_access_denied; search not completed",
+      "formal_pdf_acquired": false
     }
   ]
 }

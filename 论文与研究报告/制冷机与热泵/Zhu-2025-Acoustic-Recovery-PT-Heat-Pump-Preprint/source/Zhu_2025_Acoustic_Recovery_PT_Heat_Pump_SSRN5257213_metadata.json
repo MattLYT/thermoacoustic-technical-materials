@@ -1,0 +1,124 @@
+{
+  "source_id": "doi:10.2139/ssrn.5257213",
+  "title": "Experimental and Numerical Simulation Study on Acoustic Power Recovery Pulse Tube Heat Pump",
+  "authors": [
+    "Shenglin Zhu",
+    "Xi Chen",
+    "Tian Ye",
+    "Yifan Zhu",
+    "Yingxia Qi"
+  ],
+  "year": 2025,
+  "doi": "10.2139/ssrn.5257213",
+  "publisher": "SSRN",
+  "publication_type": "preprint",
+  "posted_date": "2025-05-16",
+  "peer_review_status": "not-peer-reviewed",
+  "institution": [
+    "University of Shanghai for Science and Technology"
+  ],
+  "record_category": "论文与研究报告/制冷机与热泵",
+  "keywords": [
+    "脉管热泵",
+    "声功回收",
+    "实验",
+    "数值模拟",
+    "预印本"
+  ],
+  "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257213",
+  "acquisition_url": "https://papers.ssrn.com/sol3/Delivery.cfm/072230f1-6c3c-4b62-9971-26864dcd946e-MECA.pdf?abstractid=5257213&mirid=1",
+  "archive_updated": "2026-10-16",
+  "source_status": "local-source-preserved",
+  "source_path": "source/Zhu_2025_Acoustic_Recovery_PT_Heat_Pump_SSRN5257213.pdf",
+  "source_sha256": "f5ba72a4bac323c4973d629e759f6a86c8836bfb4715a4b829fe74e21c016b8a",
+  "source_pages": 30,
+  "metadata_path": "source/Zhu_2025_Acoustic_Recovery_PT_Heat_Pump_SSRN5257213_metadata.json",
+  "parse_method": "MinerU",
+  "parse_path": "parsed/Zhu_2025_Acoustic_Recovery_PT_Heat_Pump_SSRN5257213_MinerU全文.md",
+  "evidence_grade": "未同行评审预印本；实验与数值模拟；不能替代正式期刊版",
+  "parsing_status": "原件1–30页分两批机器解析；已核对裁切页与原件一致及图片链接",
+  "reading_status": "已核对原件身份和关联线索；未逐页人工核读",
+  "related_doi": [
+    "10.1016/j.ijrefrig.2026.107009"
+  ],
+  "version_relation_status": "related-study-candidate; formal-version-relationship-unconfirmed",
+  "acquisition_method": "SSRN public browser download redirect; HTTPS GET; no institutional proxy",
+  "version_relation": {
+    "status": "unconfirmed",
+    "related_doi": "10.1016/j.ijrefrig.2026.107009",
+    "matching_abstract_values": [
+      "353 K",
+      "175 W electrical input",
+      "226 W heating",
+      "36.5% relative Carnot",
+      "81.25 deg phase difference"
+    ],
+    "differences": [
+      "title",
+      "author list (5 vs 3)",
+      "preprint includes 3D simulation"
+    ],
+    "formal_version_pdf_acquired": false
+  },
+  "parse_audit": {
+    "batches": [
+      {
+        "original_pages": [
+          1,
+          20
+        ],
+        "parsed_page_indexes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "task_id": "f43ef1dc-e684-4e21-b656-175e95d4a940",
+        "crop_pages_match_original": true,
+        "image_count": 68
+      },
+      {
+        "original_pages": [
+          21,
+          30
+        ],
+        "parsed_page_indexes": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "task_id": "a2b29f50-efcc-4072-a591-2ee8633fd988",
+        "crop_pages_match_original": true,
+        "image_count": 27
+      }
+    ],
+    "image_count": 95,
+    "local_image_links": 56,
+    "broken_image_links": 0,
+    "pdf_sha256": "f5ba72a4bac323c4973d629e759f6a86c8836bfb4715a4b829fe74e21c016b8a",
+    "machine_markdown_sha256": "9825fe7eab3fc06310c81a84e429aef0aac8b3614f35f8fce7a914c299856ef4"
+  }
+}

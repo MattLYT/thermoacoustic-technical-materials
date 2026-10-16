@@ -1,0 +1,886 @@
+[
+    {
+        "type": "chart",
+        "img_path": "images/7fa933363525cc16e66cb5a2d399a97c112fafa70fdc9e6b43ee8ebd4bd8f716.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            166,
+            92,
+            494,
+            267
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/3ddcbc8f9b518106971cbe9f182ad486ad9914043412016e90cda7dee4723bc6.jpg",
+        "content": "",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "bbox": [
+            505,
+            93,
+            835,
+            269
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ca74718419f9a00343e5d7587fd83f958add74dc4e7efb9bc98ffcf9c9cc521.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            179,
+            268,
+            482,
+            467
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec9a2b402904ca803166c3c972645d746df6ef5bbb43dd6ab105951c656e9c94.jpg",
+        "image_caption": [
+            "Figure. 18. Axial temperature distribution of the pulse tube at different heating temperatures (a) and different input electric power (b); Radial temperature distribution of PT at different heating temperatures (c) and different input electric power (d)."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            526,
+            273,
+            831,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To understand the phenomenon of the experimental data, the temperature distribution of PT from CFD data is depicted in Figure 19. The axial temperature gradient inside the PT is not uniformly distributed, while a relatively significant temperature gradient can be observed near the wall surface. Radial temperatures are significantly different at different angles, consistent with the experimental results. In addition, the highest temperature is found close to the hot-end PT. This is in agreement with the trend of the experimentally measured temperatures. The complex flow of helium inside the PT results in the mixing of hot and cold helium. This is the reason for the nonuniform distribution of temperature.",
+        "bbox": [
+            144,
+            531,
+            853,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/471a5779c0581b98803c65643cca0f18d6638a9fe2a3480bd5bc0804b68f561f.jpg",
+        "image_caption": [
+            "Figure. 19. Temperature contour for PT"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            299,
+            89,
+            699,
+            357
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7.5. Flow characteristics of the main components",
+        "text_level": 2,
+        "bbox": [
+            146,
+            385,
+            504,
+            399
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To reveal the cause of the non-uniform temperature gradient within the PT, the helium flow characteristics in the PT are investigated through CFD data. The results find that there are four flow types in the PT, as shown in Figure 20. The gas parcels inside the PT are classified into three kinds. The red gas parcel moves at the hot end, and the blue one moves at the cold end. Additionally, the yellow one is constantly considered a gas piston. The flow styles Ⅰ and Ⅱ are the common flow types. The flow style Ⅰ corresponds to the expansion process, while the flow style Ⅱ corresponds to the compressor process. At an instant of one cycle, the flow styles Ⅲ and Ⅳ are observed in PT.",
+        "bbox": [
+            144,
+            403,
+            853,
+            530
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fd35e13be96003da546cd35cd553b91d2fd872f22ee4509c61ed0daf2a10b32.jpg",
+        "image_caption": [
+            "Figure. 20 Four flow types in the PT."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            336,
+            531,
+            662,
+            637
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The velocity contours and streamlines for the PT at a cycle are displayed in Figure 21. The process of forming the flow pattern Ⅳ is described in Figure 21(a)-(c). For Figure 21(a), there are two gas parcels at the cold end, resulting in the development of two vortices and a zero velocity interface. It is demonstrated that the velocity amplitude of the helium at the position of PT is zero. The vortices gradually expand in the radial direction from the wall to the axial in the radial direction and grow at 0.41 T, leading to the formation of pattern Ⅳ. While the vortices gradually become smaller at 0.44 T. The process of forming the flow pattern Ⅲ is depicted in Figure 21(d)-(f). For Figure 21(d), the collision is observed at both ends of PT with gas particles entering. This will lead to the formation of miniature vortices at the wall of the cold end. From Figure 21(d) to Figure 21(e), it can be found that the zero-velocity interface moves from the cold end to the hot end, owing to the oscillating flow in the PT during the process. The vortices are generated at the mid-axial of the hot end. The zero-velocity interface enhances the expansion process. Therefore, the vortices are formed in the cold of PT, increasing the energy loss. In addition, the complex helium flow in the PT results",
+        "bbox": [
+            144,
+            662,
+            855,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            991
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9faa4cb7eae7ac83860d262bbdfb76bc0609ad446667a238cfc0be74fae77ac.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            327,
+            116,
+            670,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in a non-uniformity of its temperature gradient.",
+        "bbox": [
+            146,
+            86,
+            485,
+            102
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e35c23aa09a7c5e8eed7f52594464ef86a3a88e00f78fe758ec7e870363b4f2.jpg",
+        "image_caption": [
+            "(a) 0.38T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            302,
+            147,
+            416,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc892854a6163bb48df6e728ab22b6cb0e46f6821dcf83be295e04fca7c75dd3.jpg",
+        "image_caption": [
+            "Velocity (m/s)",
+            "(b) 0.41T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            442,
+            148,
+            556,
+            281
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f6c97d49b72223921d09474258c0a43fcb5d6c18b90df0d5969b51af956e9db.jpg",
+        "image_caption": [
+            "(c) 0.44T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            581,
+            147,
+            695,
+            281
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb7056e3c9476def6e69ba9a2b82318b56213569188d7b479bba990d22dc9aee.jpg",
+        "image_caption": [
+            "(d) 0.91T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            300,
+            299,
+            416,
+            434
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e308e57b3f649a380afbfc9d72338f4f72cdcdb705c3898eee95cc1492b590df.jpg",
+        "image_caption": [
+            "(e) 0.94T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            442,
+            299,
+            557,
+            435
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7dfe1479aae65e9d2b81485431eca232f500e58698bd58732e90b226f6bec76.jpg",
+        "image_caption": [
+            "(f) 0.97T",
+            "Figure. 21 Velocity contour and streamlines for PT at one cycle."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            583,
+            299,
+            695,
+            435
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effect of working frequency on the flow pattern in the pulse tube, the flow styles Ⅲ and Ⅳ for the PT are shown in Figure 22 when the working frequency is 69 Hz. It can be noticed that the number and size of vortices are comparable at the working frequencies of 64 and 69 Hz. The zero-velocity interface appears later when the working frequency is 69 Hz. Moreover, the scale of the zero-velocity interface in PT is smaller at the working frequency of 69 Hz.",
+        "bbox": [
+            144,
+            476,
+            852,
+            567
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The FSs are equipped at both ends of the PT. Which are considered porous zones in Fluent, utilized to prevent the formation of vortices. However, the FSs of APRPTHP cannot completely prevent the formation of vortices. The St number is adopted to explain flow style Ⅲ and Ⅳ. The St number is calculated by equation (30).",
+        "bbox": [
+            144,
+            569,
+            852,
+            640
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3aa44930128b5204dda7a4c267d63009cad9874933d790bb296be5349d22bf21.jpg",
+        "text": "$$\nS t = f d / u\\tag{30}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            438,
+            643,
+            522,
+            658
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where � is the working frequency, � is the characteristic diameter, � is the velocity of the working fluid. The St number varies with working frequency and velocity when the diameter is constant. The velocity increases with the increase in working frequency. It can be found that the influence of velocity on the St number is more significant than frequency. Therefore, the formation, evolution, and shedding of vortices can be controlled by an appropriate St number.",
+        "bbox": [
+            144,
+            662,
+            852,
+            752
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            991
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9340cd131ffcfdfcc40c2e558d9132e02a4aa0226c719ad369945e15c8d7bc8a.jpg",
+        "image_caption": [
+            "Velocity (m/s)"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            324,
+            103,
+            668,
+            130
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ac8500456b325c8c1e606629f69eb3087b70bf1dc26b1ba5897b1d9ac88f5f4.jpg",
+        "image_caption": [
+            "(a) 0.44T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            297,
+            137,
+            411,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ad9a21d699551c09de8c81f7d2fe199e6c6ee77758a89552e73a059a6651720.jpg",
+        "image_caption": [
+            "(b) 0.47T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            435,
+            137,
+            549,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ce2e0f3f80b80962b9ff8d18ff344b15881fc493d22f28c2b65ec887fa43a0b.jpg",
+        "image_caption": [
+            "(c) 0.5T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            588,
+            137,
+            700,
+            271
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/055cb979bae8c4793bb965f07e349876348e04ee98cfb75fc2928cd88a54bcd9.jpg",
+        "image_caption": [
+            "(d) 0.94T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            295,
+            290,
+            410,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a96a64041f797168233331fe07808294f4aa7012f1484e5f04f3b5a09e2e4f4b.jpg",
+        "image_caption": [
+            "(e) 0.97T"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            435,
+            288,
+            549,
+            424
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/af1c778986dbaf811d3b9ea990d9e09936d3adad99488ac24a6b902edf54116d.jpg",
+        "image_caption": [
+            "(f) 1T",
+            "Figure. 22 The flow style Ⅲ and Ⅳ for PT at the working frequency of 69 Hz."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            589,
+            290,
+            702,
+            424
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the oscillating flow of the helium in the APRPTHP, the helium flow style at the Tjunction zone is not identical to its flow style at the other components. Six flow styles are discovered at the T-junction structure in a cycle, as shown in Figure 23. The numbers and scales of vortices are periodically generated when helium flows through the T-junction structure. From 1/16T to 4/16T, the vortices at the acoustic power recovery tube are gradually developed and then fade away. From 5/16T to 7/16T, the vortices are produced on one side of the T-junction and become magnified. From 8/16T to 10/16T, small-scale vortices are generated at the wall and then disappear. From 11/16T to 15/16T, the vortices are generated at both places at the same time. The scale of the vortices is gradually grown, then merges into one to fill the entire tube. This situation leads to significant flow loss. Finally, the vortices disappear at the 16/16T. This phenomenon is the result of the various processes of vortices conducted by the contraction and expansion of the helium, flow detachment, velocity collisions of the helium, and cyclical variation of the flow direction. The periodic variation in flow direction is the most significant factor that leads to the change process of vortices. Therefore, a large energy loss is generated at the T-junction.",
+        "bbox": [
+            144,
+            476,
+            853,
+            736
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/46bf7ddf6dd5dac8f1840051b8ce76ee171b98bca21acf182edf8a6b6332e41c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            744,
+            277,
+            908
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            991
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d352756024ef7f6dbc005157f6ba6334bb1fa60b109098119c8d10dcaa93313.jpg",
+        "image_caption": [
+            "Figure. 23 Velocity contour and streamlines for the T-junction at one cycle."
+        ],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            96,
+            868,
+            690
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To clearly estimate the energy loss from the T-junction, the PV power loss is calculated quantitatively by equation (16). The acoustic power is recovered at the ES and transported to the ACS. Subsequently, the recovered acoustic power is transported to the heat pump part at the Tjunction. Therefore, the sum of PV power at the heat pump inlet and PV power loss at the T-junction equals the sum of PV in CS and the ACS.",
+        "bbox": [
+            144,
+            718,
+            852,
+            808
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6ef6001509a3664ba57f41173c21807c1863e6bd6efbe520f4c8bc786134cca.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            60,
+            829,
+            137,
+            906
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4b4be3b31532eee32002698d8a81fb410598538af2cc7b70d0de8c5a1370f5ec.jpg",
+        "text": "$$\nW _ { P V l o s s } = W _ { P V 1 } + W _ { P V 2 } - W _ { P V 3 }\\tag{31}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            381,
+            809,
+            630,
+            826
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { P V I }$ is the PV power in the compressor chamber, $W _ { P V 2 }$ is the PV power in the ACS, and $W _ { P V 3 }$ is the PV power at the heat pump inlet. The PV power loss is 12.9 W at the T-junction when the heating capacity is 251.4 W at 353 K. The PV power loss is about 12.9% of the PV power in CS. The performance of APRPTHP can be improved by optimizing the T-junction structure.",
+        "bbox": [
+            144,
+            829,
+            847,
+            902
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            991
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Conclusions",
+        "text_level": 2,
+        "bbox": [
+            146,
+            86,
+            278,
+            103
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An efficient high heating-capacity APRPTHP working at 353 K is designed, manufactured, and studied. The impacts of hot-end temperature, cold-end temperature, and working frequency on the performance of APRPTHP are evaluated by experiment. Based on the validated threedimensional simulation, the temperature distribution and flow characteristics inside the APRPTHP are revealed. The following conclusions are drawn.",
+        "bbox": [
+            144,
+            112,
+            852,
+            203
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) The optimal working of APRPTHP is 64 Hz in the experiment. The performance of APRPTHP is improved by decreasing the working temperature. When the input electric power and working temperature are 175 W and 353 K, APRPTHP can obtain a heating capacity of 226 W, and its relative Carnot efficiency is 36.5%. The phase difference between the displacer and piston of 81.25° is measured. It is dependent on working frequency, while it is not affected by other operating conditions.",
+        "bbox": [
+            144,
+            205,
+            853,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) The helium flow direction varies complexly at one cycle, resulting in the generation of the vortices and zero-velocity interface. When the working frequency increases, the zero-velocity interface is observed later, and the vortices are smaller. As a result, the temperature distribution inside PT is non-uniform. While the temperature distribution for the REG is a linear gradient owing to the presence of the stack wire mesh. Finally, the phase difference for mass flow and pressure wave of 0° is observed inside the PT.",
+        "bbox": [
+            144,
+            316,
+            853,
+            425
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) The helium from three directions is gathered, leading to complex variations of the flow direction. The acoustic power loss is 13.7 W when the heating capacity is 251.4 W at 353 K. The acoustic power loss is about 12.9% of the input acoustic power.",
+        "bbox": [
+            144,
+            428,
+            852,
+            482
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4572bcb66a41f95673a2af6903178f256bfa4f15f8813894d257029e25511c8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Nomenclature</td><td>Abbreviations</td></tr><tr><td>Es=specific energy of solid, J·kg-1</td><td>CHX=cold-end heat exchanger</td></tr><tr><td>F =frequency, Hz</td><td>COMP = compression chamber in the compressor</td></tr><tr><td>Kf=fluid thermal conductivity, W·m-1·K-1</td><td>COPpy=coefficient of performance</td></tr><tr><td>Keff=effective thermal conductivity, W·m-1·K-1</td><td>EXP = expansion chamber in the phase shifter</td></tr><tr><td>P = pressure magnitude, MPa</td><td>HHX=hot-end heat ex changer</td></tr><tr><td>Po = average pressure, MPa</td><td>REG=regenerator</td></tr><tr><td>ΔP= pressure amplitude, MPa</td><td>TAHP=thermoacoustic heat hump</td></tr><tr><td>S=source term for the moment equation</td><td>CT1=connecting tube 1</td></tr><tr><td>St=Strouhal</td><td>CT2=connecting tube 2</td></tr><tr><td>T= operating cycle, s</td><td>PT=pulse tube</td></tr><tr><td>Tj= fluid temperature, K</td><td>APRPTHP=acoustic power recovery pulse tube heat pump</td></tr><tr><td>Th=ambient temperature, K</td><td>CS= compression space</td></tr><tr><td>V=volume flow rate, m³·s-1</td><td>ACS=auxiliary compression space</td></tr><tr><td>V₀=volume flow amplitude, m³·s-1</td><td>ES= expansion space</td></tr><tr><td>Vd=displacer velocity, m·s-1</td><td></td></tr><tr><td>Vd0=displacer velocity amplitude, m·s-1</td><td>Greek letters</td></tr><tr><td>Vp=piston velocity, m·s-1</td><td>α= permeability, m2</td></tr><tr><td>Vpo=piston velocity amplitude, m·s-1</td><td>ε= porosity</td></tr><tr><td>We=input electric power, W</td><td>φ=phase difference between the piston and the displacer, °</td></tr><tr><td>WPv=PV power, W</td><td>ω=angular velocity, rad/s</td></tr><tr><td>WPvl= PV power in the compression space, W</td><td>θ= phase difference between pressure wave and the mass flow</td></tr></table>",
+        "bbox": [
+            147,
+            498,
+            847,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            952,
+            991
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3382594edc9b9b2409e2469c04f755fea8ad7610c0bb649116a8ff3d7fbc1ecf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Wpv2= PV power in the auxiliary compression =τ=period, s</td><td>rate, °</td></tr><tr><td>space, W Wpv3= PV power at the inlet of the heat pump</td><td></td></tr><tr><td>unit, W Wpvloss= PV power loss caused by the T- Subscripts</td><td></td></tr><tr><td>junction, W</td><td></td></tr><tr><td>Xp= displacement of Piston, mm</td><td>d=displacer</td></tr><tr><td>Xpo= displacement amplitude of piston, mm</td><td>f=fluid</td></tr><tr><td>X= displacement of displacer, mm</td><td>p=piston</td></tr><tr><td>Xd0= displacement amplitude of displacer, mm s=solid</td><td></td></tr><tr><td>λµ= viscous penetration depth, mm</td><td></td></tr><tr><td>ρf=fluid density, kg·m-³</td><td></td></tr><tr><td>ρs=solid density, kg·m-3</td><td></td></tr><tr><td>ηc= efficiency of compressor</td><td></td></tr></table>",
+        "bbox": [
+            152,
+            87,
+            551,
+            366
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Credit authorship contribution statement",
+        "text_level": 2,
+        "bbox": [
+            146,
+            387,
+            510,
+            403
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Shenglin Zhu: Methodology, Investigation, Validation, Data curation, Writing- Original draft preparation, Graphics drawing, Methodology, Investigation, Software. Xi Chen: Conceptualization, Methodology, Supervision, Writing- reviewing and editing, Project administration, Funding acquisition. Tian Ye: Methodology, Data curation, Investigation, Software. Yifan Zhu: Methodology, Investigation, Software. Yingxia Qi: Project administration, Funding acquisition.",
+        "bbox": [
+            144,
+            405,
+            852,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Declaration of competing interest",
+        "text_level": 2,
+        "bbox": [
+            146,
+            499,
+            442,
+            514
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+        "bbox": [
+            146,
+            517,
+            850,
+            551
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data availability",
+        "text_level": 2,
+        "bbox": [
+            146,
+            555,
+            297,
+            570
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data will be made available on request.",
+        "bbox": [
+            146,
+            573,
+            433,
+            588
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements",
+        "text_level": 2,
+        "bbox": [
+            147,
+            592,
+            321,
+            607
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (No.52376012) and the Aeronautical Science Foundation of China (20230024047001).",
+        "bbox": [
+            146,
+            609,
+            850,
+            644
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References",
+        "text_level": 2,
+        "bbox": [
+            147,
+            646,
+            247,
+            662
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[1] R. Ponnappan, B. Donovan, L. Chow, High-power thermal management issues in space-based systems, in: SPACE TECHNOLOGY AND APPLICATIONS INTERNATIONAL FORUM-STAIF 2002, Vol. 608, 2002, pp. 65-72.",
+            "[2] R.P. Scaringe, W. Haskin, Spacecraft heat pump thermal bus development status and technical issues, Proceedings of the 25th Intersociety Energy Conversion Engineering Conference, (1990) 130-135 vol.132. https:// doi.org/10.1109/iecec.1990.716558.",
+            "[3] Y.D. Du, L.L. Wang, Z.Y. Yu, H.Z. Zhang, Y.Z. Li, C. Yang, Multi-objective optimization of thermoeconomic and component size of supercritical carbon dioxide recompression cycle based on small-scale lead-cooled fast reactor, INTERNATIONAL JOURNAL OF ENERGY RESEARCH, 46 (2022) 13570-13589. https:// doi.org/10.1002/er.8076.",
+            "[4] S.H. Lee, I. Mudawar, M.M. Hasan, Thermal analysis of hybrid single-phase, two-phase and heat pump thermal control system (TCS) for future spacecraft, APPLIED THERMAL ENGINEERING, 100 (2016) 190-214. https:// doi.org/10.1016/j.applthermaleng.2016.01.018."
+        ],
+        "bbox": [
+            147,
+            665,
+            850,
+            717
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            952,
+            991
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[5] K.J. Chua, S.K. Chou, W.M. Yang, Advances in heat pump systems: A review, APPLIED ENERGY, 87 (2010) 3611-3624. https:// doi.org/10.1016/j.apenergy.2010.06.014.",
+            "[6] R. Ma, Y.T. Wu, C.X. Du, X. Chen, D.L. Zhang, C.F. Ma, The performance test of a modified miniature rotary compressor in upright and inverted modes subjected to microgravity, APPLIED THERMAL ENGINEERING, 92 (2016) 81-92. https:// doi.org/10.1016/j.applthermaleng.2015.09.091.",
+            "[7] R. Ma, X.D. Ma, Y.L. Ye, Y.T. Wu, Comparison of the mixed flow and heat transfer characteristics in the evaporator of a vapor compression heat pump in normal gravity and microgravity, INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 172 (2021). https:// doi.org/10.1016/j.ijheatmasstransfer.2021.121170.",
+            "[8] Z.D. Fu, J.Y. Miao, Q. Wu, H.Y. Zheng, Analytical Study on Gas-Oil Separation of a Heat Pump System under Lunar Gravity, ADVANCES IN MECHANICAL ENGINEERING, 12 (2020). https:// doi.org/10.1177/1687814020966408.",
+            "[9] G.W. Swift, Thermoacoustic engines, JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 84 (1988) 1145-1180. https:// doi.org/10.1121/1.396617.",
+            "[10] S. Backhaus, G.W. Swift, A thermoacoustic Stirling heat engine, NATURE, 399 (1999) 335-338. https:// doi.org/10.1038/20624.",
+            "[11] S. Backhaus, G.W. Swift, A thermoacoustic-Stirling heat engine: Detailed study, JOURNAL OF (2000) 3148-3166. https:// doi.org/10.1121/1.429343.",
+            "[12] B. Gao, E.-c. Luo, W. Dai, Y.-y. Chen, J.-y. Hu, Experimental Study of Non-resonant Selfcirculation Heat Transfer Loop for Thermoacoustic Engines, JOURNAL OF NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY, 34 (2010) 827-832. https://",
+            "[13] C.H. Cheng, H.S. Yang, H.X. Chen, Development of a beta-type Stirling heat pump with rhombic drive mechanism by a modified non-ideal adiabatic model, INTERNATIONAL JOURNAL OF ENERGY RESEARCH, 44 (2020) 5197-5208. https:// doi.org/10.1002/er.5258.",
+            "[14] A.S. Easa, W.M. El-Maghlany, M.M. Hassan, M.T. Tolan, The performance of a gamma-type stirling water dispenser with twin wavy plate heat exchangers, CASE STUDIES IN THERMAL ENGINEERING, 39 (2022). https:// doi.org/10.1016/j.csite.2022.102464.",
+            "[15] R. Wang, J. Hu, Z. Jia, L. Zhang, E. Luo, Study on the temperature adaptability of free-piston Stirling heat pump, ENERGY CONVERSION AND MANAGEMENT, 249 (2021) 114864. https:// doi.org/https://doi.org/10.1016/j.enconman.2021.114864.",
+            "[16] R. Wang, J. Hu, Z. Jia, E. Luo, J. Xu, Y. Sun, Performance study of a free-piston Stirling heat pump with a circumferential temperature gradient in the heating heat exchanger, INTERNATIONAL JOURNAL OF REFRIGERATION, 146 (2023) 274-289. https:// doi.org/https://doi.org/10.1016/j.ijrefrig.2022.11.007.",
+            "[17] H. Tijani, S. Spoelstra, J.A. Lycklama, High temperature thermoacoustic heat pump, in: ICSV19, 2012.",
+            "[18] M.M. Bassem, Y. Ueda, A. Akisawa, Thermoacoustic Stirling Heat Pump Working as a Heater, APPLIED PHYSICS EXPRESS, 4 (2011). https:// doi.org/10.1143/APEX.4.107301.",
+            "[19] Z. Yang, Y. Zhuo, L. Ercang, Z. Yuan, Travelling-wave thermoacoustic high-temperature heat pump for industrial waste heat recovery, ENERGY, 77 (2014) 397-402. https:// doi.org/10.1016/j.energy.2014.09.023.",
+            "[20] R. Kikuchi, K. Tsuda, M.M. Bassem, Y. Ueda, Measurement of performance of thermoacoustic heat pump in a-3 to 160 °C temperature range, JAPANESE JOURNAL OF APPLIED PHYSICS, 54 (2015)."
+        ],
+        "bbox": [
+            146,
+            86,
+            850,
+            121
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            992
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "https:// doi.org/10.7567/JJAP.54.117101.",
+            "[21] M. Ben Nasr, M.M. Bassem, Y. Ueda, A. Guizani, Numerical investigation on a travelling wave thermoacoustic heat pump, JOURNAL OF THERMAL SCIENCE AND TECHNOLOGY, 13 (2018). https:// doi.org/10.1299/jtst.2018jtst0022.",
+            "[22] R. Yang, N. Blanc, G.Z. Ramon, Theoretical performance characteristics of a travelling-wave phasechange thermoacoustic heat pump, ENERGY CONVERSION AND MANAGEMENT, 254 (2022). https:// doi.org/10.1016/j.enconman.2021.115202.",
+            "[23] G. Chen, L.H. Tang, B. Mace, Z.B. Yu, Multi-physics coupling in thermoacoustic devices: A review, RENEWABLE & SUSTAINABLE ENERGY REVIEWS, 146 (2021). https:// doi.org/10.1016/j.rser.2021.111170.",
+            "[24] G. Chen, L.H. Tang, Z.B. Yu, Modeling and analysis of a dual-acoustic-driver thermoacoustic heat (2022). https:// doi.org/10.1016/j.tsep.2022.101270.",
+            "[25] S. Zhang, Z.H. Wu, R.D. Zhao, W. Dai, E.C. Luo, Numerical investigation on a thermoacoustic heat engine unit with a displacer, ENERGY CONVERSION AND MANAGEMENT, 85 (2014) 793-799. https:// doi.org/10.1016/j.enconman.2014.01.057.",
+            "[26] S.W. Zhu, Four operation modes of a pulse tube machine with a step piston compressor, ENERGY, 100 (2016) 190-198. https:// doi.org/10.1016/j.energy.2016.01.066.",
+            "[27] P. Zheng, X. Chen, Y.P. Zeng, W.D. Wu, Y.N. Wu, Effect of displacer on performance of Stirlingtype pulse tube refrigerator with work recovery, SCIENCE AND TECHNOLOGY FOR THE BUILT ENVIRONMENT, 27 (2021) 567-577. https:// doi.org/10.1080/23744731.2021.1898245.",
+            "[28] Z.R. Guo, Y.Z. Lin, S.W. Zhu, Experimental investigation of displacer rod diameter effect on pulse tube cryocooler, INTERNATIONAL JOURNAL OF REFRIGERATION, 112 (2020) 69-73. https:// doi.org/10.1016/j.ijrefrig.2019.12.023.",
+            "[29] S.W. Zhu, Z.M. Guo, Fundamental motion relation of different solid phase shifters of pulse tube cryocooler, INTERNATIONAL JOURNAL OF REFRIGERATION, 144 (2022) 231-237. https:// doi.org/10.1016/j.ijrefrig.2022.07.014.",
+            "[30] P. Zheng, X. Chen, Y. Wu, W. Duan, H. Zhang, Comparative study of four displacer phase-shifters in a split pulse tube refrigerator working at 170 K, APPLIED THERMAL ENGINEERING, 230 (2023) 120772. https:// doi.org/https://doi.org/10.1016/j.applthermaleng.2023.120772.",
+            "[31] J. Tan, H. Dang, An electrical circuit analogy model for analyses and optimizations of the Stirlingtype pulse tube cryocooler, CRYOGENICS, 71 (2015) 18-29. https:// doi.org/https://doi.org/10.1016/j.cryogenics.2015.05.004.",
+            "[32] L. Xiao, K. Luo, E. Luo, J. Xu, A Summary: Dynamic and thermodynamic analysis of thermoacoustic and Stirling systems based on time-domain acoustic-electrical analogy, APPLIED ENERGY, 347 (2023) 121377. https:// doi.org/https://doi.org/10.1016/j.apenergy.2023.121377.",
+            "[33] R.S. Wakeland, Use of electrodynamic drivers in thermoacoustic refrigerators, JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 107 (2000) 827-832. https:// doi.org/10.1121/1.428265.",
+            "[34] H.J. Hui, J.T. Song, W. Yin, L. Ding, S.S. Liu, Z.H. Jiang, H.F. Zhu, Y.N. Wu, An efficient high cooling-capacity 40 K pulse tube refrigerator using an active dual-piston as phase shifter, ENERGY, 286 (2024). https:// doi.org/10.1016/j.energy.2023.129534.",
+            "[35] T. Lei, J.M. Pfotenhauer, W.J. Zhou, Analysis and comparison of different phase shifters for Stirling pulse tube cryocooler, CRYOGENICS, 80 (2016) 63-73. https:// doi.org/10.1016/j.cryogenics.2016.09.007."
+        ],
+        "bbox": [
+            146,
+            86,
+            430,
+            102
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            992
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "list",
+        "sub_type": "ref_text",
+        "list_items": [
+            "[36] K. Wang, S. Dubey, F.H. Choo, F. Duan, Modelling of pulse tube refrigerators with inertance tube and mass-spring feedback mechanism, APPLIED ENERGY, 171 (2016) 172-183. https:// doi.org/10.1016/j.apenergy.2016.03.002.",
+            "[37] X.K. You, L.M. Qiu, X.Q. Zhi, C.X. Duan, X.J. Tao, J.J. Wang, Performance analysis of a linear compressor in a cryocooler, APPLIED THERMAL ENGINEERING, 141 (2018) 659-665. https:// doi.org/10.1016/j.applthermaleng.2018.06.017.",
+            "[38] R. Radebaugh, B. Louie, D.R. Smith, J. Zimmermann, A comparison of three types of pulse tube refrigerators - New methods for reaching 60 K, Springer US, (1986). https://",
+            "[39] H. Zu, W. Dai, A. de Waele, Development of dilution refrigerators-A review, CRYOGENICS, 121 (2022). https:// doi.org/10.1016/j.cryogenics.2021.103390.",
+            "[40] J.M. Pfotenhauer, J.L. Shi, G.F. Nellis, A Parametric Optimization of a Single Stage Regenerator Using REGEN 3.2, (2005). https://",
+            "[41] R. Keolian, S. Garrett, S. Garrett, Thermoacoustics: A Unifying Perspective for Some Engines and Refrigerators, Second Edition, THE JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA, 143 4 (2018) 2110. https://",
+            "[42] Y. Zhao, H. Dang, CFD simulation of a miniature coaxial Stirling-type pulse tube cryocooler operating at 128 Hz, CRYOGENICS, 73 (2016) 53-59. https://",
+            "[43] H. Yokoyama, Y. Omori, M. Kume, M. Nishikawara, H. Yanada, Simulation of thermoacoustic heat pump effects driven by acoustic radiation in a cavity flow, INTERNATIONAL JOURNAL OF HEAT AND MASS TRANSFER, 185 (2022). https:// doi.org/10.1016/j.ijheatmasstransfer.2021.122424.",
+            "[44] Z. Guo, J.M. Pfotenhauer, F.K. Miller, S. Zhu, A research of micro-pulse tube cryocooler with displacer phase shifter, APPLIED THERMAL ENGINEERING, 205 (2022). https:// doi.org/10.1016/j.applthermaleng.2021.117995.",
+            "[45] W.H. Duan, P. Zheng, Y.K. Wu, J.R. Zhan, X. Chen, Numerical investigation of a displacer-type pulse tube refrigerator with work recovery, SCIENCE AND TECHNOLOGY FOR THE BUILT ENVIRONMENT, 28 (2022) 1341-1354. https:// doi.org/10.1080/23744731.2022.2111143.",
+            "[46] H.S. Kim, I.C. Gwak, S.H. Lee, Numerical analysis of heat transfer area effect on cooling performance in regenerator of free-piston Stirling cooler, CASE STUDIES IN THERMAL ENGINEERING, 32 (2022). https:// doi.org/10.1016/j.csite.2022.101875.",
+            "[47] Y.B. Zhao, G.R. Yu, J. Tan, X.C. Mao, J.Q. Li, R. Zha, N. Li, H.Z. Dang, CFD modeling and experimental verification of oscillating flow and heat transfer processes in the micro coaxial Stirlingtype pulse tube cryocooler operating at 90-170 Hz, CRYOGENICS, 90 (2018) 30-40. https:// doi.org/10.1016/j.cryogenics.2018.01.003."
+        ],
+        "bbox": [
+            146,
+            86,
+            852,
+            140
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5257213",
+        "bbox": [
+            45,
+            977,
+            954,
+            992
+        ],
+        "page_idx": 9
+    }
+]
