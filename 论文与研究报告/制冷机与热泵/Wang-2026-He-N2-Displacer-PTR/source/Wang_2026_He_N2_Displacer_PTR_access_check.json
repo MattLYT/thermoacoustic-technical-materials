@@ -62,5 +62,28 @@
   ],
   "academicsearch_result": "匹配题录；未返回PDF入口",
   "repository_search_result": "补充Exa题名和作者存档检索未取得对应全文",
-  "scope_limit": "未检出开放副本不代表不存在作者存档稿"
+  "scope_limit": "未检出开放副本不代表不存在作者存档稿",
+  "retrieval_attempts": [
+    {
+      "checked_at": "2026-10-16",
+      "scispace": "语义检索返回10条相似论文，未返回目标篇目全文",
+      "institutional_sciencedirect": {
+        "channel": "深圳图书馆国科信入口",
+        "session": "深图已登录；ScienceDirect首页显示科技信息中心机构标识",
+        "tested_query_doi": "10.1016/j.rser.2026.117255",
+        "result": "站内检索被CPE00001 / IP blocked拦截",
+        "scope": "共享机构检索通道测试；不代表逐篇PDF下载请求"
+      },
+      "nstl": {
+        "doi_query": "10.1016/j.applthermaleng.2026.129788",
+        "doi_result": "暂无数据",
+        "title_keywords": "displacer-type pulse tube refrigerator",
+        "keyword_result": "29条相关记录；未定位到目标2026论文"
+      },
+      "elsevier_api": {
+        "metadata_http_status": 429,
+        "result": "RATE_LIMIT_EXCEEDED；未取得正文"
+      }
+    }
+  ]
 }
