@@ -1,0 +1,124 @@
+{
+  "retrieved_at": "2026-10-16",
+  "metadata_url": "https://api.crossref.org/works/10.32604/fhmt.2026.076127",
+  "metadata": {
+    "DOI": "10.32604/fhmt.2026.076127",
+    "title": [
+      "Numerical Investigation of CO&lt;sub&gt;2&lt;/sub&gt; Contaminant Transport and Deposition in an In-Line Pulse Tube Cryocooler"
+    ],
+    "author": [
+      {
+        "given": "Hao",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pengcheng",
+        "family": "Qu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yifan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haoyi",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yingxia",
+        "family": "Qi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Frontiers in Heat and Mass Transfer"
+    ],
+    "publisher": "Tech Science Press",
+    "volume": "24",
+    "issue": "1",
+    "published": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "link": [
+      {
+        "URL": "https://cdn.techscience.cn/files/fhmt/2026/TSP_FHMT-24-1/TSP_FHMT_76127/TSP_FHMT_76127.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.techscience.com/fhmt/v24n1/66495"
+      }
+    }
+  }
+}

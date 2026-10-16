@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-16",
+  "doi": "10.1016/j.applthermaleng.2026.129788",
+  "openalex_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.applthermaleng.2026.129788",
+  "http_status": 200,
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "best_oa_location": null,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.applthermaleng.2026.129788",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.129788",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.applthermaleng.2026.129788",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S129676613",
+        "display_name": "Applied Thermal Engineering",
+        "issn_l": "1359-4311",
+        "issn": [
+          "1359-4311",
+          "1873-5606"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Applied Thermal Engineering",
+      "raw_type": "journal-article"
+    }
+  ],
+  "academicsearch_query": "10.1016/j.applthermaleng.2026.129788",
+  "academicsearch_requested_engines": [
+    "crossref",
+    "openalex",
+    "semantic_scholar",
+    "google_scholar"
+  ],
+  "academicsearch_result": "匹配题录；未返回PDF入口",
+  "repository_search_result": "补充Exa题名和作者存档检索未取得对应全文",
+  "scope_limit": "未检出开放副本不代表不存在作者存档稿"
+}

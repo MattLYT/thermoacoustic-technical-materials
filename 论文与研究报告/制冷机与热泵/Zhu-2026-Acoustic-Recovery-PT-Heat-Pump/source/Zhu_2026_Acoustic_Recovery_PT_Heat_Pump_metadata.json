@@ -1,0 +1,94 @@
+{
+  "retrieved_at": "2026-10-16",
+  "metadata_url": "https://api.crossref.org/works/10.1016/j.ijrefrig.2026.107009",
+  "metadata": {
+    "DOI": "10.1016/j.ijrefrig.2026.107009",
+    "title": [
+      "Performance investigation of a novel acoustic power recovery pulse tube heat pump"
+    ],
+    "author": [
+      {
+        "given": "Shenglin",
+        "family": "Zhu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yifan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4611-2588",
+        "authenticated-orcid": false,
+        "given": "Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "International Journal of Refrigeration"
+    ],
+    "publisher": "Elsevier BV",
+    "volume": "189",
+    "article-number": "107009",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "alternative-id": [
+      "S0140700726002082"
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0140700726002082?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0140700726002082?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140700726002082"
+      }
+    }
+  }
+}

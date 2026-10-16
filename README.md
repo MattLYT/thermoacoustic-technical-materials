@@ -12,6 +12,17 @@
 
 资料的引用追溯：已保存原件的 `source_path` 指向包内 `source/`；只有公开网页来源的阅读版保留其 URL 和取得状态。`same_source_as` 标记同源副本，统计时按唯一来源计数。只有来源、只有阅读版或尚未取得全文的条目，按实际取得状态保存，不强制补造另一半。
 
+### 热声优化与脉管论文
+
+| 论文 | 期刊与题录 | 原文状态 |
+|---|---|---|
+| [[机器学习辅助热声装置设计与优化综述_Wang_2026|机器学习辅助热声装置设计与优化综述]] | Renewable and Sustainable Energy Reviews 241 (2026), 117255；[DOI](https://doi.org/10.1016/j.rser.2026.117255) | 已核对题录；待补PDF |
+| [[直列式脉管制冷机CO2污染物迁移与沉积数值研究_Zhu_2026|直列式脉管制冷机CO₂污染物迁移与沉积]] | Frontiers in Heat and Mass Transfer 24(1) (2026), 3；[DOI](https://doi.org/10.32604/fhmt.2026.076127) | 已保存18页PDF、MinerU全文与图片；数值研究 |
+| [[氦氮混合工质排出器式脉管制冷机性能研究_Wang_2026|氦氮混合工质排出器式脉管制冷机]] | Applied Thermal Engineering **289, Part 1** (2026), 129788；[DOI](https://doi.org/10.1016/j.applthermaleng.2026.129788) | 已核对题录；待补PDF |
+| [[声功回收脉管热泵性能研究_Zhu_2026|声功回收脉管热泵]] | International Journal of Refrigeration 189 (2026), 107009；[DOI](https://doi.org/10.1016/j.ijrefrig.2026.107009) | 已核对题录；待补PDF |
+
+各资料包保存取得状态与出版社元数据。题录级条目在取得PDF后再转换全文；机器阅读版的公式、图题与性能数字须回原PDF核对。
+
 ## 实体目录
 
 | 一级 | 二级 | 状态 | 收录依据 |

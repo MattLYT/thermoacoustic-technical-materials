@@ -1,0 +1,45 @@
+{
+  "parser": "MinerU",
+  "task_refs": [
+    "standard:4d160823-9729-4009-9519-e596baac6e69"
+  ],
+  "source_sha256": "2131f2a035323a94871fee9945d6b5d9581d2c66985df387c36b1a664b2e77aa",
+  "source_pages": 18,
+  "original_markdown_sha256": "117c02607113c9d85b7ef72b3f77e8102f25ed66022651a4b4103307e1f03644",
+  "mineru_zip_sha256": "27b55fb0ee900b8567fba2318a54290ea65be9b01dec21ef46e9618b35611934",
+  "archived_markdown_sha256": "c28053273f8e7084f354267a6ed70ffd1cfa381e6737db088fe96b1749e33bf1",
+  "image_count": 33,
+  "image_reference_count": 18,
+  "validation": {
+    "page_indices_zero_based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "missing_images": []
+  },
+  "converted_at": "2026-10-16",
+  "review_scope": "核对原件题名、DOI与页数；完整页范围机器转换；未逐页人工精校",
+  "markdown_normalization": "统一LF换行；行末空格表示的硬换行转为反斜杠；解析版图片引用指向../images/",
+  "input_identity_check": {
+    "returned_origin_sha256": "de88fa1de11c6fba412303a953562ce0a656f49bb6e8410aec37aacd4fc0b894",
+    "original_pdf_bytes_equal": false,
+    "all_pages_extracted_text_equal": true,
+    "all_page_dimensions_equal_to_0_01pt": true
+  }
+}

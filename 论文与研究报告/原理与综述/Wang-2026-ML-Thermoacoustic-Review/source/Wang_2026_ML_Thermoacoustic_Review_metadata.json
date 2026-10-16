@@ -1,0 +1,108 @@
+{
+  "retrieved_at": "2026-10-16",
+  "metadata_url": "https://api.crossref.org/works/10.1016/j.rser.2026.117255",
+  "metadata": {
+    "DOI": "10.1016/j.rser.2026.117255",
+    "title": [
+      "Machine learning-assisted design and optimization of thermoacoustic devices: Progress and perspectives"
+    ],
+    "author": [
+      {
+        "given": "Yanyan",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-0559-3362",
+        "authenticated-orcid": false,
+        "given": "Shuling",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhen",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4611-2588",
+        "authenticated-orcid": false,
+        "given": "Xi",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Renewable and Sustainable Energy Reviews"
+    ],
+    "publisher": "Elsevier BV",
+    "volume": "241",
+    "article-number": "117255",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "alternative-id": [
+      "S136403212600554X"
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S136403212600554X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S136403212600554X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S136403212600554X"
+      }
+    }
+  }
+}
